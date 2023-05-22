@@ -155,7 +155,7 @@ const About = ()=>{
                                                             className: "font-weight-600",
                                                             children: "Phone"
                                                         }),
-                                                        "+27 71 162 8394"
+                                                        "+27 71 162 8293"
                                                     ]
                                                 })
                                             }),
@@ -426,7 +426,7 @@ const About = ()=>{
                                                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                                                 className: "fa fa-caret-right"
                                                                             }),
-                                                                            "6 Months"
+                                                                            "2021 - Duration: 3 Months"
                                                                         ]
                                                                     }),
                                                                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
@@ -439,6 +439,52 @@ const About = ()=>{
                                                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                                 className: "font-weight-700",
                                                                                 children: "Google Digital Garage"
+                                                                            })
+                                                                        ]
+                                                                    })
+                                                                ]
+                                                            }),
+                                                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                                                className: "card-body"
+                                                            })
+                                                        ]
+                                                    })
+                                                ]
+                                            }),
+                                            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                                className: "item",
+                                                children: [
+                                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                        className: "bullet"
+                                                    }),
+                                                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                                        className: "card",
+                                                        children: [
+                                                            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                                                className: "card-header",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
+                                                                        className: "year",
+                                                                        children: [
+                                                                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
+                                                                                className: "fa fa-calendar"
+                                                                            }),
+                                                                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
+                                                                                className: "fa fa-caret-right"
+                                                                            }),
+                                                                            "2022 - Duration 3 Months"
+                                                                        ]
+                                                                    }),
+                                                                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
+                                                                        className: "d-block font-weight-400 uppercase",
+                                                                        children: [
+                                                                            "Advanced Search Engine Optimization",
+                                                                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                                className: "separator"
+                                                                            }),
+                                                                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                                className: "font-weight-700",
+                                                                                children: "Simplilearn"
                                                                             })
                                                                         ]
                                                                     })
