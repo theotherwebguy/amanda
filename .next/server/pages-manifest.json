@@ -1,5 +1,16 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js"
+  "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+  "/blog-post": "pages/blog-post.html",
+  "/blog": "pages/blog.html",
+  "/demo": "pages/demo.html",
+  "/index-image-overlay": "pages/index-image-overlay.html",
+  "/index-left-image-dark": "pages/index-left-image-dark.html",
+  "/index-left-image-light": "pages/index-left-image-light.html",
+  "/index-video-dark": "pages/index-video-dark.html",
+  "/index-video-light": "pages/index-video-light.html",
+  "/": "pages/index.html",
+  "/404": "pages/404.html"
 }

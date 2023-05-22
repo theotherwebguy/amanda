@@ -43,7 +43,7 @@ const Home = ({ leftImg, video, leftImgSrc }) => {
               >
                 <span>
                   <i className="fa fa-suitcase" />
-                  My Articles
+                  Articles
                 </span>
               </a>
             </div>
