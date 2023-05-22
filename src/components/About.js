@@ -282,7 +282,7 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        6 Months
+                        2021 - Duration: 3 Months
                       </span>
                       <span className="d-block font-weight-400 uppercase">
                         Fundamentals of Digital Marketing
@@ -299,32 +299,27 @@ const About = () => {
                 </div>
                 {/* Item Ends */}
                 {/* Item Starts */}
-                {/* <div className="item">
+                <div className="item">
                   <span className="bullet" />
                   <div className="card">
                     <div className="card-header">
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2001 - 2005
+                        2022 - Duration 3 Months
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        Bachelor Degree
+                        Advanced Search Engine Optimization
                         <span className="separator" />
                         <span className="font-weight-700">
-                          Moscow High School
+                          Simplilearn
                         </span>
                       </span>
                     </div>
                     <div className="card-body">
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing
-                        elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-                        diam nonummy.
-                      </p>
                     </div>
                   </div>
-                </div> */}
+                </div>
                 {/* Item Ends */}
               </div>
             </div>
