@@ -37,13 +37,13 @@ const Home = ({ leftImg, video, leftImgSrc }) => {
                 </span>
               </a>
               <a
-                href="#work"
-                onClick={() => changeNav("work")}
+                href="#blog"
+                onClick={() => changeNav("blog")}
                 className="btn btn-secondary link-portfolio-two"
               >
                 <span>
                   <i className="fa fa-suitcase" />
-                  portfolio
+                  My Articles
                 </span>
               </a>
             </div>
