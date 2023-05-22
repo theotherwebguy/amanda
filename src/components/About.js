@@ -299,7 +299,7 @@ const About = () => {
                 </div>
                 {/* Item Ends */}
                 {/* Item Starts */}
-                <div className="item">
+                {/* <div className="item">
                   <span className="bullet" />
                   <div className="card">
                     <div className="card-header">
@@ -324,7 +324,7 @@ const About = () => {
                       </p>
                     </div>
                   </div>
-                </div>
+                </div> */}
                 {/* Item Ends */}
               </div>
             </div>
