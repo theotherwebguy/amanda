@@ -112,7 +112,7 @@ const About = ()=>{
                                                             children: "Experience"
                                                         }),
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("strong", {
-                                                            children: "3"
+                                                            children: "2"
                                                         }),
                                                         " years"
                                                     ]
@@ -166,7 +166,14 @@ const About = ()=>{
                                                             className: "font-weight-600",
                                                             children: "Email"
                                                         }),
-                                                        "amandathabekhulu@gmail.com"
+                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
+                                                            style: {
+                                                                color: "#fff"
+                                                            },
+                                                            href: "mailto:amandathabekhulu@gmail.com",
+                                                            target: "_blank",
+                                                            children: "amandathabekhulu@gmail.com"
+                                                        })
                                                     ]
                                                 })
                                             })

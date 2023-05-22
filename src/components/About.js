@@ -58,7 +58,7 @@ const About = () => {
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Experience</span><strong>3</strong> years 
+                    <span className="font-weight-600">Experience</span><strong>2</strong> years 
                   </h6>
                 </li>
                 <li>
@@ -91,7 +91,7 @@ const About = () => {
                 <li>
                   <h6>
                     <span className="font-weight-600">Email</span>
-                    amandathabekhulu@gmail.com
+                    <a style={{color: '#fff'}} href="mailto:amandathabekhulu@gmail.com" target="_blank">amandathabekhulu@gmail.com</a>
                   </h6>
                 </li>
                 {/* <li>
