@@ -9,7 +9,7 @@ import {
 
 const workData = [
   {
-    img: "img/Phase 2 - Burger banner.png",
+    img: "img/Phase_2_Burger_banner.png",
     name: "Fast Food advertisement",
     format: "img",
     project: "Ad",
