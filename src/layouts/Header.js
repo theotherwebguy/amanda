@@ -6,12 +6,12 @@ import useWindowSize from "../useWindowSize";
 const menus = [
   { icon: "fa fa-home", dkMenuName: "Home", name: "Home", id: "home" },
   { icon: "fa fa-user", dkMenuName: "About", name: "About me", id: "about" },
-  // {
-  //   icon: "fa fa-briefcase",
-  //   dkMenuName: "Portfolio",
-  //   name: "my Portfolio",
-  //   id: "work",
-  // },
+   {
+     icon: "fa fa-briefcase",
+     dkMenuName: "Portfolio",
+     name: "my Portfolio",
+     id: "work",
+   },
   {
     icon: "fa fa-envelope-open",
     dkMenuName: "Contact",

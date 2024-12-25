@@ -9,95 +9,37 @@ import {
 
 const workData = [
   {
-    img: "img/projects/project-1.jpg",
-    name: "Image Format",
+    img: "img/Phase 2 - Burger banner.png",
+    name: "Fast Food advertisement",
     format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
+    project: "Ad",
+    client: "Phase 2 - Fast Food outley",
     duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
+    technologies: ["Canva"],
     budget: "1550 USD",
   },
   {
-    img: "img/projects/project-2.jpg",
-    name: "Youtube Format",
-    format: "youtube",
-    project: "WEBSITE",
-    client: "ENVATO",
+    img: "img/cyber-monday-celebration.jpg",
+    name: "Cyber Monday Ad",
+    format: "img",
+    project: "Social Media",
+    client: "Stronics",
     duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
+    technologies: ["Canva"],
     budget: "1550 USD",
   },
   {
-    img: "img/projects/project-3.jpg",
-    name: "Slider Format",
+    img: "img/Product-listing-2.png",
+    name: "WORDPRESS WEBSITE MANAGEMNT",
     format: "slider",
-    project: "WEBSITE",
-    client: "ENVATO",
+    project: " PRODUCT LISTING ",
+    client: "SUPER ELECTRONICS",
     duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
+    technologies: ["WORDPRESS", "WORCOMMERCE", "CONTENT COPY"],
     budget: "1550 USD",
   },
-  {
-    img: "img/projects/project-4.jpg",
-    name: "Video Format",
-    format: "video",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-5.jpg",
-    name: "Image Format",
-    format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-6.jpg",
-    name: "Image Format",
-    format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-7.jpg",
-    name: "Image Format",
-    format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-8.jpg",
-    name: "Image Format",
-    format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-9.jpg",
-    name: "Image Format",
-    format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
+
+
 ];
 
 const Work = () => {
@@ -201,7 +143,7 @@ const Work = () => {
                       {work.client}
                     </span>
                   </li>
-                  <li>
+                  {/* <li>
                     <i className="fa fa-hourglass-o" />
                     <span className="font-weight-400 project-label">
                       {" "}
@@ -211,7 +153,7 @@ const Work = () => {
                     <span className="font-weight-600 uppercase">
                       {work.duration}
                     </span>
-                  </li>
+                  </li> */}
                   <li>
                     <i className="fa fa-code" />{" "}
                     <span className="font-weight-400 project-label">
@@ -225,7 +167,7 @@ const Work = () => {
                       ))}
                     </span>
                   </li>
-                  <li>
+                  {/* <li>
                     <i className="fa fa-money" />{" "}
                     <span className="font-weight-400 project-label">
                       {" "}
@@ -235,7 +177,7 @@ const Work = () => {
                     <span className="font-weight-600 uppercase">
                       {work.budget}
                     </span>
-                  </li>
+                  </li> */}
                 </ul>
                 <a href="#" className="btn">
                   <span>
