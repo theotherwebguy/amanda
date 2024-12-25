@@ -9,7 +9,11 @@ const AnimationText = () => {
           "Amanda Mpanza",
           "a PR Officer",
           "a Digital Marketer",
+<<<<<<< HEAD
           "a blogger",
+=======
+          "A Technical Writer",
+>>>>>>> main
         ]}
       />
     </h1>

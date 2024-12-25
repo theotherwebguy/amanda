@@ -129,12 +129,21 @@ const menus = [
         name: "About me",
         id: "about"
     },
+<<<<<<< HEAD
     // {
     //   icon: "fa fa-briefcase",
     //   dkMenuName: "Portfolio",
     //   name: "my Portfolio",
     //   id: "work",
     // },
+=======
+    {
+        icon: "fa fa-briefcase",
+        dkMenuName: "Portfolio",
+        name: "my Portfolio",
+        id: "work"
+    },
+>>>>>>> main
     {
         icon: "fa fa-envelope-open",
         dkMenuName: "Contact",

@@ -37,7 +37,11 @@ const About = ()=>{
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                         className: "title-head-subtitle",
+<<<<<<< HEAD
                         children: "PR Officer | Digital Merketing Enthusiast | Blogger"
+=======
+                        children: "PR Officer | Digital Marketing Enthusiast | Technical Writer"
+>>>>>>> main
                     })
                 ]
             }),
@@ -54,12 +58,20 @@ const About = ()=>{
                                     children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("img", {
                                         className: "img-fluid d-block",
                                         src: "img/aboutme.jpg",
+<<<<<<< HEAD
                                         alt: ""
+=======
+                                        alt: "Amanda Mpanza"
+>>>>>>> main
                                     })
                                 }),
                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                     className: "d-block d-md-none",
+<<<<<<< HEAD
                                     children: "As a Public Relations Assistant Officer, I possess a relevant three-year degree in public relations and two years of experience in the field. I have successfully coordinated corporate events and have a proven track record in writing balanced articles. My goal is to support the implementation of strategic marketing and public relations plans, collaborating closely with PR managers and teams to enhance brand reputation and achieve organizational objectives. With strong communication skills, attention to detail, and a passion for public relations, I am equipped to contribute to the success of any organization's PR efforts."
+=======
+                                    children: "Ambitious and detail-oriented digital marketing enthusiast with a Diploma in Public Relations and currently pursuing an Advanced Diploma in Communication Science. Equipped with certifications in digital marketing, Google Analytics, and advanced SEO. Experienced in campaign planning, data analysis, and customer engagement strategies. My goal is to enhance brand reputation through strategic marketing and public relations."
+>>>>>>> main
                                 })
                             ]
                         }),
@@ -112,7 +124,11 @@ const About = ()=>{
                                                             children: "Experience"
                                                         }),
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("strong", {
+<<<<<<< HEAD
                                                             children: "2"
+=======
+                                                            children: "3"
+>>>>>>> main
                                                         }),
                                                         " years"
                                                     ]
@@ -142,9 +158,15 @@ const About = ()=>{
                                                     children: [
                                                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                             className: "font-weight-600",
+<<<<<<< HEAD
                                                             children: "Langages"
                                                         }),
                                                         "English and IsiZulu,"
+=======
+                                                            children: "Languages"
+                                                        }),
+                                                        "English and IsiZulu"
+>>>>>>> main
                                                     ]
                                                 })
                                             }),
@@ -172,6 +194,10 @@ const About = ()=>{
                                                             },
                                                             href: "mailto:amandathabekhulu@gmail.com",
                                                             target: "_blank",
+<<<<<<< HEAD
+=======
+                                                            rel: "noreferrer",
+>>>>>>> main
                                                             children: "amandathabekhulu@gmail.com"
                                                         })
                                                     ]
@@ -197,7 +223,11 @@ const About = ()=>{
                                 children: [
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h2", {
                                         className: "font-weight-600 uppercase title-section",
+<<<<<<< HEAD
                                         children: "experience"
+=======
+                                        children: "Experience"
+>>>>>>> main
                                     }),
                                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                         className: "resume-items",
@@ -223,19 +253,31 @@ const About = ()=>{
                                                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                                                 className: "fa fa-caret-right"
                                                                             }),
+<<<<<<< HEAD
                                                                             "2021 - 2022"
+=======
+                                                                            "Nov 2023 - Sep 2024"
+>>>>>>> main
                                                                         ]
                                                                     }),
                                                                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
                                                                         className: "d-block font-weight-400 uppercase",
                                                                         children: [
+<<<<<<< HEAD
                                                                             "SALES & MARKETING ASSISTANT",
+=======
+                                                                            "Ecommerce & Digital Marketing Assistant",
+>>>>>>> main
                                                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                                 className: "separator"
                                                                             }),
                                                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                                 className: "font-weight-700",
+<<<<<<< HEAD
                                                                                 children: "Super Electronics"
+=======
+                                                                                children: "Stronics (Remote)"
+>>>>>>> main
                                                                             })
                                                                         ]
                                                                     })
@@ -243,6 +285,7 @@ const About = ()=>{
                                                             }),
                                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                 className: "card-body",
+<<<<<<< HEAD
                                                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                                                     children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("ul", {
                                                                         style: {
@@ -263,6 +306,34 @@ const About = ()=>{
                                                                             })
                                                                         ]
                                                                     })
+=======
+                                                                children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("ul", {
+                                                                    children: [
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                                                                            children: "- Created engaging ad copy for Google Ads and social media campaigns to boost engagement and conversions."
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                                                                            children: "- Conducted keyword research using SEMrush and Google Ads."
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                                                                            children: "- Designed content for presentations and social media using Canva."
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                                                                            children: "- Executed A/B testing for product promotions."
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                                                                            children: "- Managed WordPress content and applied SEO best practices."
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                                                                            children: "- Launched email campaigns via Wix."
+                                                                        })
+                                                                    ]
+>>>>>>> main
                                                                 })
                                                             })
                                                         ]
@@ -290,19 +361,31 @@ const About = ()=>{
                                                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
                                                                                 className: "fa fa-caret-right"
                                                                             }),
+<<<<<<< HEAD
                                                                             "2020 - 2021"
+=======
+                                                                            "Dec 2021 - Feb 2022"
+>>>>>>> main
                                                                         ]
                                                                     }),
                                                                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
                                                                         className: "d-block font-weight-400 uppercase",
                                                                         children: [
+<<<<<<< HEAD
                                                                             "SOCIAL MEDIA INTERN",
+=======
+                                                                            "Sales & Marketing Assistant",
+>>>>>>> main
                                                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                                 className: "separator"
                                                                             }),
                                                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                                                 className: "font-weight-700",
+<<<<<<< HEAD
                                                                                 children: "Studioza"
+=======
+                                                                                children: "Super Electronics"
+>>>>>>> main
                                                                             })
                                                                         ]
                                                                     })
@@ -310,6 +393,7 @@ const About = ()=>{
                                                             }),
                                                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
                                                                 className: "card-body",
+<<<<<<< HEAD
                                                                 children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                                                     children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("ul", {
                                                                         style: {
@@ -346,6 +430,25 @@ const About = ()=>{
                                                                             })
                                                                         ]
                                                                     })
+=======
+                                                                children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("ul", {
+                                                                    children: [
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                                                                            children: "- Updated stock and inventory on WooCommerce, Takealot, and Facebook."
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                                                                            children: "- Optimized Facebook Ads to maximize ROI."
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("li", {
+                                                                            children: "- Improved sales and brand visibility through online channels."
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {}),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {})
+                                                                    ]
+>>>>>>> main
                                                                 })
                                                             })
                                                         ]
@@ -357,7 +460,11 @@ const About = ()=>{
                                 ]
                             }),
                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+<<<<<<< HEAD
                                 className: "col-xl-6 col-lg-6 col-md-6 skills-container",
+=======
+                                className: "col-xl-6 col-lg-6 col-md-6",
+>>>>>>> main
                                 children: [
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h2", {
                                         className: "font-weight-600 uppercase title-section",
@@ -372,6 +479,7 @@ const About = ()=>{
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                         className: "bullet"
                                                     }),
+<<<<<<< HEAD
                                                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                                         className: "card",
                                                         children: [
@@ -409,6 +517,40 @@ const About = ()=>{
                                                                 className: "card-body"
                                                             })
                                                         ]
+=======
+                                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                                        className: "card",
+                                                        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                                            className: "card-header",
+                                                            children: [
+                                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
+                                                                    className: "year",
+                                                                    children: [
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
+                                                                            className: "fa fa-calendar"
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
+                                                                            className: "fa fa-caret-right"
+                                                                        }),
+                                                                        "2017 - 2019"
+                                                                    ]
+                                                                }),
+                                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
+                                                                    className: "d-block font-weight-400 uppercase",
+                                                                    children: [
+                                                                        "Diploma in Public Relations Management",
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                            className: "separator"
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                            className: "font-weight-700",
+                                                                            children: "University of Zululand"
+                                                                        })
+                                                                    ]
+                                                                })
+                                                            ]
+                                                        })
+>>>>>>> main
                                                     })
                                                 ]
                                             }),
@@ -418,6 +560,7 @@ const About = ()=>{
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                         className: "bullet"
                                                     }),
+<<<<<<< HEAD
                                                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                                         className: "card",
                                                         children: [
@@ -455,6 +598,40 @@ const About = ()=>{
                                                                 className: "card-body"
                                                             })
                                                         ]
+=======
+                                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                                        className: "card",
+                                                        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                                            className: "card-header",
+                                                            children: [
+                                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
+                                                                    className: "year",
+                                                                    children: [
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
+                                                                            className: "fa fa-calendar"
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
+                                                                            className: "fa fa-caret-right"
+                                                                        }),
+                                                                        "2024 (In Progress)"
+                                                                    ]
+                                                                }),
+                                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
+                                                                    className: "d-block font-weight-400 uppercase",
+                                                                    children: [
+                                                                        "Advanced Diploma in Communication Science",
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                            className: "separator"
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                            className: "font-weight-700",
+                                                                            children: "University of Zululand"
+                                                                        })
+                                                                    ]
+                                                                })
+                                                            ]
+                                                        })
+>>>>>>> main
                                                     })
                                                 ]
                                             }),
@@ -464,6 +641,7 @@ const About = ()=>{
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                                         className: "bullet"
                                                     }),
+<<<<<<< HEAD
                                                     /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
                                                         className: "card",
                                                         children: [
@@ -501,6 +679,40 @@ const About = ()=>{
                                                                 className: "card-body"
                                                             })
                                                         ]
+=======
+                                                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("div", {
+                                                        className: "card",
+                                                        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                                                            className: "card-header",
+                                                            children: [
+                                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
+                                                                    className: "year",
+                                                                    children: [
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
+                                                                            className: "fa fa-calendar"
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("i", {
+                                                                            className: "fa fa-caret-right"
+                                                                        }),
+                                                                        "2021 - 2022"
+                                                                    ]
+                                                                }),
+                                                                /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("span", {
+                                                                    className: "d-block font-weight-400 uppercase",
+                                                                    children: [
+                                                                        "Certifications: Digital Marketing, Advanced SEO",
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                            className: "separator"
+                                                                        }),
+                                                                        /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                                                                            className: "font-weight-700",
+                                                                            children: "Google Garage"
+                                                                        })
+                                                                    ]
+                                                                })
+                                                            ]
+                                                        })
+>>>>>>> main
                                                     })
                                                 ]
                                             })
@@ -1130,7 +1342,11 @@ const AnimationText = ()=>{
                     "Amanda Mpanza",
                     "a PR Officer",
                     "a Digital Marketer",
+<<<<<<< HEAD
                     "a blogger", 
+=======
+                    "A Technical Writer", 
+>>>>>>> main
                 ]
             })
         ]
@@ -1141,7 +1357,10 @@ const AnimationText = ()=>{
 ;// CONCATENATED MODULE: ./src/components/Home.js
 
 
+<<<<<<< HEAD
 // import Poster from "../../public/img/bg-video-poster.jpg";
+=======
+>>>>>>> main
 
 
 const Home = ({ leftImg , video , leftImgSrc  })=>{
@@ -1163,11 +1382,19 @@ const Home = ({ leftImg , video , leftImgSrc  })=>{
                     id: "selector",
                     children: [
                         /*#__PURE__*/ jsx_runtime_.jsx("h3", {
+<<<<<<< HEAD
                             children: "Hi there !"
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx(components_AnimationText, {}),
                         /*#__PURE__*/ jsx_runtime_.jsx("p", {
                             children: "As a Public Relations Assistant Officer, I possess a relevant three-year degree in public relations and two years of experience in the field. I have successfully coordinated corporate events and have a proven track record in writing balanced articles. My goal is to support the implementation of strategic marketing and public relations plans, collaborating closely with PR managers and teams to enhance brand reputation and achieve organizational objectives. With strong communication skills, attention to detail, and a passion for public relations, I am equipped to contribute to the success of any organization's PR efforts."
+=======
+                            children: "Hi there!"
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx(components_AnimationText, {}),
+                        /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                            children: "I am an ambitious and detail-oriented Marketing and Administration Assistant with a Diploma in Public Relations and certifications in digital marketing, Google Analytics, and advanced SEO. My experience includes crafting engaging campaigns, optimizing administrative processes, and driving customer engagement. I am skilled in content creation, data analysis, and collaboration, with a proven ability to enhance brand recognition and streamline operations."
+>>>>>>> main
                         }),
                         /*#__PURE__*/ jsx_runtime_.jsx("div", {
                             className: "call-to-actions-home",
@@ -1183,7 +1410,11 @@ const Home = ({ leftImg , video , leftImgSrc  })=>{
                                                 /*#__PURE__*/ jsx_runtime_.jsx("i", {
                                                     className: "fa fa-user"
                                                 }),
+<<<<<<< HEAD
                                                 "more about me"
+=======
+                                                " more about me"
+>>>>>>> main
                                             ]
                                         })
                                     }),
@@ -1196,7 +1427,11 @@ const Home = ({ leftImg , video , leftImgSrc  })=>{
                                                 /*#__PURE__*/ jsx_runtime_.jsx("i", {
                                                     className: "fa fa-suitcase"
                                                 }),
+<<<<<<< HEAD
                                                 "Articles"
+=======
+                                                " Articles"
+>>>>>>> main
                                             ]
                                         })
                                     })

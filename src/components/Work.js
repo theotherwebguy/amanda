@@ -9,6 +9,7 @@ import {
 
 const workData = [
   {
+<<<<<<< HEAD
     img: "img/projects/project-1.jpg",
     name: "Image Format",
     format: "img",
@@ -98,6 +99,39 @@ const workData = [
     technologies: ["HTML", "JAVASCRIPT"],
     budget: "1550 USD",
   },
+=======
+    img: "img/Phase 2 - Burger banner.png",
+    name: "Fast Food advertisement",
+    format: "img",
+    project: "Ad",
+    client: "Phase 2 - Fast Food outley",
+    duration: "3 MONTHS",
+    technologies: ["Canva"],
+    budget: "1550 USD",
+  },
+  {
+    img: "img/cyber-monday-celebration.jpg",
+    name: "Cyber Monday Ad",
+    format: "img",
+    project: "Social Media",
+    client: "Stronics",
+    duration: "3 MONTHS",
+    technologies: ["Canva"],
+    budget: "1550 USD",
+  },
+  {
+    img: "img/Product-listing-2.png",
+    name: "WORDPRESS WEBSITE MANAGEMNT",
+    format: "slider",
+    project: " PRODUCT LISTING ",
+    client: "SUPER ELECTRONICS",
+    duration: "3 MONTHS",
+    technologies: ["WORDPRESS", "WORCOMMERCE", "CONTENT COPY"],
+    budget: "1550 USD",
+  },
+
+
+>>>>>>> main
 ];
 
 const Work = () => {
@@ -201,7 +235,11 @@ const Work = () => {
                       {work.client}
                     </span>
                   </li>
+<<<<<<< HEAD
                   <li>
+=======
+                  {/* <li>
+>>>>>>> main
                     <i className="fa fa-hourglass-o" />
                     <span className="font-weight-400 project-label">
                       {" "}
@@ -211,7 +249,11 @@ const Work = () => {
                     <span className="font-weight-600 uppercase">
                       {work.duration}
                     </span>
+<<<<<<< HEAD
                   </li>
+=======
+                  </li> */}
+>>>>>>> main
                   <li>
                     <i className="fa fa-code" />{" "}
                     <span className="font-weight-400 project-label">
@@ -225,7 +267,11 @@ const Work = () => {
                       ))}
                     </span>
                   </li>
+<<<<<<< HEAD
                   <li>
+=======
+                  {/* <li>
+>>>>>>> main
                     <i className="fa fa-money" />{" "}
                     <span className="font-weight-400 project-label">
                       {" "}
@@ -235,7 +281,11 @@ const Work = () => {
                     <span className="font-weight-600 uppercase">
                       {work.budget}
                     </span>
+<<<<<<< HEAD
                   </li>
+=======
+                  </li> */}
+>>>>>>> main
                 </ul>
                 <a href="#" className="btn">
                   <span>

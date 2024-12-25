@@ -10,7 +10,7 @@ const About = () => {
           about <span>me</span>
         </h2>
         <span className="title-head-subtitle">
-          PR Officer | Digital Merketing Enthusiast | Blogger
+          PR Officer | Digital Marketing Enthusiast | Technical Writer
         </span>
       </div>
       {/* Main Heading Ends */}
@@ -22,11 +22,17 @@ const About = () => {
               <img
                 className="img-fluid d-block"
                 src="img/aboutme.jpg"
-                alt=""
+                alt="Amanda Mpanza"
               />
             </div>
             <p className="d-block d-md-none">
-            As a Public Relations Assistant Officer, I possess a relevant three-year degree in public relations and two years of experience in the field. I have successfully coordinated corporate events and have a proven track record in writing balanced articles. My goal is to support the implementation of strategic marketing and public relations plans, collaborating closely with PR managers and teams to enhance brand reputation and achieve organizational objectives. With strong communication skills, attention to detail, and a passion for public relations, I am equipped to contribute to the success of any organization's PR efforts.
+              Ambitious and detail-oriented digital marketing enthusiast with a
+              Diploma in Public Relations and currently pursuing an Advanced
+              Diploma in Communication Science. Equipped with certifications in
+              digital marketing, Google Analytics, and advanced SEO. Experienced
+              in campaign planning, data analysis, and customer engagement
+              strategies. My goal is to enhance brand reputation through
+              strategic marketing and public relations.
             </p>
           </div>
           <div className="row col-xl-6 col-lg-6 col-md-12">
@@ -44,21 +50,16 @@ const About = () => {
                     Mpanza
                   </h6>
                 </li>
-                {/* <li>
-                  <h6>
-                    <span className="font-weight-600">Birthdate</span>21 june
-                    1990
-                  </h6>
-                </li> */}
                 <li>
                   <h6>
                     <span className="font-weight-600">Nationality</span>
-                    South African 
+                    South African
                   </h6>
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Experience</span><strong>2</strong> years 
+                    <span className="font-weight-600">Experience</span>
+                    <strong>3</strong> years
                   </h6>
                 </li>
                 <li>
@@ -71,60 +72,37 @@ const About = () => {
             </div>
             <div className="col-xl-6 col-lg-6 col-md-6 col-sm-6">
               <ul className="list-2">
-                {/* <li>
-                  <h6>
-                    <span className="font-weight-600">Freelance</span>
-                    Available
-                  </h6>
-                </li> */}
                 <li>
                   <h6>
-                    <span className="font-weight-600">Langages</span>
-                    English and IsiZulu,
+                    <span className="font-weight-600">Languages</span>
+                    English and IsiZulu
                   </h6>
                 </li>
                 <li>
                   <h6>
-                    <span className="font-weight-600">Phone</span>+27 71 162 8293
+                    <span className="font-weight-600">Phone</span>
+                    +27 71 162 8293
                   </h6>
                 </li>
                 <li>
                   <h6>
                     <span className="font-weight-600">Email</span>
-                    <a style={{color: '#fff'}} href="mailto:amandathabekhulu@gmail.com" target="_blank">amandathabekhulu@gmail.com</a>
+                    <a
+                      style={{ color: "#fff" }}
+                      href="mailto:amandathabekhulu@gmail.com"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      amandathabekhulu@gmail.com
+                    </a>
                   </h6>
                 </li>
-                {/* <li>
-                  <h6>
-                    <span className="font-weight-600">Skype</span>
-                    daria.taylor
-                  </h6>
-                </li> */}
-                {/* <li>
-                  <h6>
-                    <span className="font-weight-600">Dribbble</span>
-                    taylor.dribbble
-                  </h6>
-                </li> */}
               </ul>
             </div>
-            {/* <div className="col-12 resume-btn-container">
-              <a href="#" className="btn btn-resume">
-                <span>
-                  <i className="fa fa-download" />
-                  download my cv
-                </span>
-              </a>
-            </div> */}
           </div>
           {/* Personal Infos Ends */}
         </div>
       </div>
-      {/* Download CV Starts */}
-      {/* <div className="container col-12 mx-auto text-center">
-        <hr className="about-section" />
-      </div> */}
-      {/* Download CV Ends */}
       {/* Resume Starts */}
       <div className="resume-container">
         <div className="container">
@@ -132,10 +110,10 @@ const About = () => {
             {/* Experience Starts */}
             <div className="col-xl-6 col-lg-6 col-md-6">
               <h2 className="font-weight-600 uppercase title-section">
-                experience
+                Experience
               </h2>
               <div className="resume-items">
-                {/* Item Starts */}
+                {/* Stronics */}
                 <div className="item">
                   <span className="bullet" />
                   <div className="card">
@@ -143,33 +121,43 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2021 - 2022
+                        Nov 2023 - Sep 2024
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                      SALES & MARKETING ASSISTANT
+                        Ecommerce & Digital Marketing Assistant
                         <span className="separator" />
-                        <span className="font-weight-700">Super Electronics</span>
+                        <span className="font-weight-700">Stronics (Remote)</span>
                       </span>
                     </div>
                     <div className="card-body">
-                      <p>
-                      <ul style={{ listStyleType: 'circle' }}>
+                      <ul>
                         <li>
-                        Successfully updated stock and inventory across multiple platforms, including WooCommerce, Takealot, Facebook, and bidorbuy, ensuring accurate and up-to-date product information for customers.
-                        </li> <br></br>
-                        <li>
-                        Monitored Facebook ads campaigns, optimizing performance to maximize engagement and conversion rates, resulting in increased sales and brand visibility.
+                         - Created engaging ad copy for Google Ads and social
+                          media campaigns to boost engagement and conversions.
                         </li><br></br>
                         <li>
-                        Implemented website updates by creating captivating banners, building landing pages, and developing promotions, enhancing the overall user experience and driving customer engagement.
+                         - Conducted keyword research using SEMrush and Google
+                          Ads.
+                        </li><br></br>
+                        <li>
+                         - Designed content for presentations and social media
+                          using Canva.
+                        </li><br></br>
+                        <li>
+                         - Executed A/B testing for product promotions.
+                        </li><br></br>
+                        <li>
+                         - Managed WordPress content and applied SEO best
+                          practices.
+                        </li><br></br>
+                        <li>
+                         - Launched email campaigns via Wix.
                         </li>
                       </ul>
-                      </p>
                     </div>
                   </div>
                 </div>
-                {/* Item Ends */}
-                {/* Item Starts */}
+                {/* Super Electronics */}
                 <div className="item">
                   <span className="bullet" />
                   <div className="card">
@@ -177,80 +165,42 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2020 - 2021
+                        Dec 2021 - Feb 2022
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                      SOCIAL MEDIA INTERN
+                        Sales & Marketing Assistant
                         <span className="separator" />
-                        <span className="font-weight-700">Studioza</span>
+                        <span className="font-weight-700">
+                          Super Electronics
+                        </span>
                       </span>
                     </div>
                     <div className="card-body">
-                    <p>
-                      <ul style={{ listStyleType: 'circle' }}>
+                      <ul>
                         <li>
-                        Created compelling content for social media posts, capturing the attention of the target audience and increasing brand awareness.
-                        </li> <br></br>
-                        <li>
-                        Brainstormed innovative campaign ideas, contributing to the development of successful social media strategies that generated high levels of engagement and user participation.
+                         - Updated stock and inventory on WooCommerce, Takealot,
+                          and Facebook.
                         </li><br></br>
                         <li>
-                        Monitored and analyzed social media platform performance, using insights to refine content strategies and optimize reach and engagement
+                         - Optimized Facebook Ads to maximize ROI.
                         </li><br></br>
                         <li>
-                        Assisted in website content layout using WordPress and Elementor page builder, improving website functionality and enhancing user experience.
-                        </li><br></br>
-                        <li>
-                        Engaged with clients and promptly responded to customer inquiries and comments on social media, fostering positive relationships and ensuring customer satisfaction.
-                        </li><br></br>
-                        <li>
-                        Utilized Adobe Suite to edit media files, enhancing visual appeal and maintaining brand consistency
-                        </li><br></br>
-                        <li>
-                        Implemented on-page SEO strategies to improve website visibility and organic search rankings, resulting in increased website traffic and higher conversion rates.
-                        </li>
+                         - Improved sales and brand visibility through online
+                          channels.
+                        </li><br></br><br></br><br></br>
                       </ul>
-                      </p>
                     </div>
                   </div>
                 </div>
-                {/* Item Ends */}
-                {/* Item Starts */}
-                {/* <div className="item">
-                  <span className="bullet" />
-                  <div className="card">
-                    <div className="card-header">
-                      <span className="year">
-                        <i className="fa fa-calendar" />
-                        <i className="fa fa-caret-right" />
-                        2010 - 2014
-                      </span>
-                      <span className="d-block font-weight-400 uppercase">
-                        Consultant
-                        <span className="separator" />
-                        <span className="font-weight-700">Google</span>
-                      </span>
-                    </div>
-                    <div className="card-body">
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing
-                        elit, sed diam nonummy nibh euismod tincidunt ut laoreet
-                        diam nonummy.
-                      </p>
-                    </div>
-                  </div>
-                </div> */}
-                {/* Item Ends */}
               </div>
             </div>
             {/* Experience Ends */}
             {/* Education Starts */}
-            <div className="col-xl-6 col-lg-6 col-md-6 skills-container">
+            <div className="col-xl-6 col-lg-6 col-md-6">
               <h2 className="font-weight-600 uppercase title-section">
                 Education
               </h2>
               <div className="resume-items">
-                {/* Item Starts */}
                 <div className="item">
                   <span className="bullet" />
                   <div className="card">
@@ -261,20 +211,15 @@ const About = () => {
                         2017 - 2019
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        Public Relations Management
+                        Diploma in Public Relations Management
                         <span className="separator" />
                         <span className="font-weight-700">
                           University of Zululand
                         </span>
                       </span>
                     </div>
-                    <div className="card-body">
-
-                    </div>
                   </div>
                 </div>
-                {/* Item Ends */}
-                {/* Item Starts */}
                 <div className="item">
                   <span className="bullet" />
                   <div className="card">
@@ -282,23 +227,18 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2021 - Duration: 3 Months
+                        2024 (In Progress)
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        Fundamentals of Digital Marketing
+                        Advanced Diploma in Communication Science
                         <span className="separator" />
                         <span className="font-weight-700">
-                          Google Digital Garage
+                          University of Zululand
                         </span>
                       </span>
                     </div>
-                    <div className="card-body">
-
-                    </div>
                   </div>
                 </div>
-                {/* Item Ends */}
-                {/* Item Starts */}
                 <div className="item">
                   <span className="bullet" />
                   <div className="card">
@@ -306,30 +246,21 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2022 - Duration 3 Months
+                        2021 - 2022
                       </span>
                       <span className="d-block font-weight-400 uppercase">
-                        Advanced Search Engine Optimization
+                        Certifications: Digital Marketing, Advanced SEO
                         <span className="separator" />
-                        <span className="font-weight-700">
-                          Simplilearn
-                        </span>
+                        <span className="font-weight-700">Google Garage</span>
                       </span>
-                    </div>
-                    <div className="card-body">
                     </div>
                   </div>
                 </div>
-                {/* Item Ends */}
               </div>
             </div>
             {/* Education Ends */}
           </div>
-          {/* Skills Starts */}
-
-          {/* Skills Starts */}
         </div>
-        {/* Resume Ends */}
       </div>
     </section>
   );
