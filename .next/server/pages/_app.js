@@ -1,123 +1,286 @@
-/*
- * ATTENTION: An "eval-source-map" devtool has been used.
- * This devtool is neither made for production nor for readable output files.
- * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
- * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
- * or disable the default devtool with "devtool: false".
- * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
- */
+"use strict";
 (() => {
 var exports = {};
-exports.id = "pages/_app";
-exports.ids = ["pages/_app"];
+exports.id = 888;
+exports.ids = [888];
 exports.modules = {
 
-/***/ "./pages/_app.js":
-/*!***********************!*\
-  !*** ./pages/_app.js ***!
-  \***********************/
+/***/ 336:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ \"next/head\");\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _src_context_colorState__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../src/context/colorState */ \"./src/context/colorState.js\");\n/* harmony import */ var _src_context_navState__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../src/context/navState */ \"./src/context/navState.js\");\n/* harmony import */ var _src_layouts_PreLoader__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../src/layouts/PreLoader */ \"./src/layouts/PreLoader.js\");\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../styles/globals.css */ \"./styles/globals.css\");\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_css__WEBPACK_IMPORTED_MODULE_6__);\n\n\n\n\n\n\n\nfunction MyApp({ Component , pageProps  }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(react__WEBPACK_IMPORTED_MODULE_2__.Fragment, {\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_head__WEBPACK_IMPORTED_MODULE_1___default()), {\n                children: [\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"link\", {\n                        href: \"https://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i\",\n                        rel: \"stylesheet\"\n                    }, void 0, false, {\n                        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                        lineNumber: 12,\n                        columnNumber: 9\n                    }, this),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"link\", {\n                        href: \"https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700\",\n                        rel: \"stylesheet\"\n                    }, void 0, false, {\n                        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                        lineNumber: 16,\n                        columnNumber: 9\n                    }, this),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"link\", {\n                        type: \"text/css\",\n                        media: \"all\",\n                        href: \"css/bootstrap.min.css\",\n                        rel: \"stylesheet\"\n                    }, void 0, false, {\n                        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                        lineNumber: 21,\n                        columnNumber: 9\n                    }, this),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"link\", {\n                        type: \"text/css\",\n                        media: \"all\",\n                        href: \"css/jquery.animatedheadline.css\",\n                        rel: \"stylesheet\"\n                    }, void 0, false, {\n                        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                        lineNumber: 27,\n                        columnNumber: 9\n                    }, this),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"link\", {\n                        type: \"text/css\",\n                        media: \"all\",\n                        href: \"css/font-awesome.min.css\",\n                        rel: \"stylesheet\"\n                    }, void 0, false, {\n                        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                        lineNumber: 33,\n                        columnNumber: 9\n                    }, this),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"link\", {\n                        type: \"text/css\",\n                        media: \"all\",\n                        href: \"/public/css/plugins.css\",\n                        rel: \"stylesheet\"\n                    }, void 0, false, {\n                        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                        lineNumber: 39,\n                        columnNumber: 9\n                    }, this),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"link\", {\n                        type: \"text/css\",\n                        media: \"all\",\n                        href: \"css/style.css\",\n                        rel: \"stylesheet\"\n                    }, void 0, false, {\n                        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                        lineNumber: 45,\n                        columnNumber: 9\n                    }, this),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"link\", {\n                        rel: \"stylesheet\",\n                        type: \"text/css\",\n                        href: \"css/styleswitcher.css\"\n                    }, void 0, false, {\n                        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                        lineNumber: 51,\n                        columnNumber: 9\n                    }, this),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"title\", {\n                        children: \"Istanbul - Personal Portfolio\"\n                    }, void 0, false, {\n                        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                        lineNumber: 52,\n                        columnNumber: 9\n                    }, this)\n                ]\n            }, void 0, true, {\n                fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                lineNumber: 11,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_src_context_navState__WEBPACK_IMPORTED_MODULE_4__[\"default\"], {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_src_context_colorState__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {\n                    children: [\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(Component, {\n                            ...pageProps\n                        }, void 0, false, {\n                            fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                            lineNumber: 56,\n                            columnNumber: 11\n                        }, this),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_src_layouts_PreLoader__WEBPACK_IMPORTED_MODULE_5__[\"default\"], {}, void 0, false, {\n                            fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                            lineNumber: 57,\n                            columnNumber: 11\n                        }, this)\n                    ]\n                }, void 0, true, {\n                    fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                    lineNumber: 55,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n                lineNumber: 54,\n                columnNumber: 7\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/pages/_app.js\",\n        lineNumber: 10,\n        columnNumber: 5\n    }, this);\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (MyApp);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9fYXBwLmpzLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7OztBQUFBO0FBQTZCO0FBQ0k7QUFDa0I7QUFDSjtBQUNFO0FBQ2xCO0FBRS9CLFNBQVNLLEtBQUssQ0FBQyxFQUFFQyxTQUFTLEdBQUVDLFNBQVMsR0FBRSxFQUFFO0lBQ3ZDLHFCQUNFLDhEQUFDTiwyQ0FBUTs7MEJBQ1AsOERBQUNELGtEQUFJOztrQ0FDSCw4REFBQ1EsTUFBSTt3QkFDSEMsSUFBSSxFQUFDLHVHQUF1Rzt3QkFDNUdDLEdBQUcsRUFBQyxZQUFZOzs7Ozs0QkFDaEI7a0NBQ0YsOERBQUNGLE1BQUk7d0JBQ0hDLElBQUksRUFBQyxtRUFBbUU7d0JBQ3hFQyxHQUFHLEVBQUMsWUFBWTs7Ozs7NEJBQ2hCO2tDQUVGLDhEQUFDRixNQUFJO3dCQUNIRyxJQUFJLEVBQUMsVUFBVTt3QkFDZkMsS0FBSyxFQUFDLEtBQUs7d0JBQ1hILElBQUksRUFBQyx1QkFBdUI7d0JBQzVCQyxHQUFHLEVBQUMsWUFBWTs7Ozs7NEJBQ2hCO2tDQUNGLDhEQUFDRixNQUFJO3dCQUNIRyxJQUFJLEVBQUMsVUFBVTt3QkFDZkMsS0FBSyxFQUFDLEtBQUs7d0JBQ1hILElBQUksRUFBQyxpQ0FBaUM7d0JBQ3RDQyxHQUFHLEVBQUMsWUFBWTs7Ozs7NEJBQ2hCO2tDQUNGLDhEQUFDRixNQUFJO3dCQUNIRyxJQUFJLEVBQUMsVUFBVTt3QkFDZkMsS0FBSyxFQUFDLEtBQUs7d0JBQ1hILElBQUksRUFBQywwQkFBMEI7d0JBQy9CQyxHQUFHLEVBQUMsWUFBWTs7Ozs7NEJBQ2hCO2tDQUNGLDhEQUFDRixNQUFJO3dCQUNIRyxJQUFJLEVBQUMsVUFBVTt3QkFDZkMsS0FBSyxFQUFDLEtBQUs7d0JBQ1hILElBQUksRUFBQyx5QkFBeUI7d0JBQzlCQyxHQUFHLEVBQUMsWUFBWTs7Ozs7NEJBQ2hCO2tDQUNGLDhEQUFDRixNQUFJO3dCQUNIRyxJQUFJLEVBQUMsVUFBVTt3QkFDZkMsS0FBSyxFQUFDLEtBQUs7d0JBQ1hILElBQUksRUFBQyxlQUFlO3dCQUNwQkMsR0FBRyxFQUFDLFlBQVk7Ozs7OzRCQUNoQjtrQ0FDRiw4REFBQ0YsTUFBSTt3QkFBQ0UsR0FBRyxFQUFDLFlBQVk7d0JBQUNDLElBQUksRUFBQyxVQUFVO3dCQUFDRixJQUFJLEVBQUMsdUJBQXVCOzs7Ozs0QkFBRztrQ0FDdEUsOERBQUNJLE9BQUs7a0NBQUMsK0JBQTZCOzs7Ozs0QkFBUTs7Ozs7O29CQUN2QzswQkFDUCw4REFBQ1YsNkRBQVE7MEJBQ1AsNEVBQUNELCtEQUFVOztzQ0FDVCw4REFBQ0ksU0FBUzs0QkFBRSxHQUFHQyxTQUFTOzs7OztnQ0FBSTtzQ0FDNUIsOERBQUNILDhEQUFTOzs7O2dDQUFHOzs7Ozs7d0JBQ0Y7Ozs7O29CQUNKOzs7Ozs7WUFDRixDQUNYO0NBQ0g7QUFFRCxpRUFBZUMsS0FBSyxFQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vaXN0YW5idWwtcmVhY3QvLi9wYWdlcy9fYXBwLmpzP2UwYWQiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEhlYWQgZnJvbSBcIm5leHQvaGVhZFwiO1xuaW1wb3J0IHsgRnJhZ21lbnQgfSBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCBDb2xvclN0YXRlIGZyb20gXCIuLi9zcmMvY29udGV4dC9jb2xvclN0YXRlXCI7XG5pbXBvcnQgTmF2U3RhdGUgZnJvbSBcIi4uL3NyYy9jb250ZXh0L25hdlN0YXRlXCI7XG5pbXBvcnQgUHJlTG9hZGVyIGZyb20gXCIuLi9zcmMvbGF5b3V0cy9QcmVMb2FkZXJcIjtcbmltcG9ydCBcIi4uL3N0eWxlcy9nbG9iYWxzLmNzc1wiO1xuXG5mdW5jdGlvbiBNeUFwcCh7IENvbXBvbmVudCwgcGFnZVByb3BzIH0pIHtcbiAgcmV0dXJuIChcbiAgICA8RnJhZ21lbnQ+XG4gICAgICA8SGVhZD5cbiAgICAgICAgPGxpbmtcbiAgICAgICAgICBocmVmPVwiaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PVBvcHBpbnM6NDAwLDQwMGksNTAwLDUwMGksNjAwLDYwMGksNzAwLDcwMGksODAwLDgwMGksOTAwLDkwMGlcIlxuICAgICAgICAgIHJlbD1cInN0eWxlc2hlZXRcIlxuICAgICAgICAvPlxuICAgICAgICA8bGlua1xuICAgICAgICAgIGhyZWY9XCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9T3BlbitTYW5zOjMwMCw0MDAsNjAwLDcwMFwiXG4gICAgICAgICAgcmVsPVwic3R5bGVzaGVldFwiXG4gICAgICAgIC8+XG4gICAgICAgIHsvKiBUZW1wbGF0ZSBDU1MgRmlsZXMgKi99XG4gICAgICAgIDxsaW5rXG4gICAgICAgICAgdHlwZT1cInRleHQvY3NzXCJcbiAgICAgICAgICBtZWRpYT1cImFsbFwiXG4gICAgICAgICAgaHJlZj1cImNzcy9ib290c3RyYXAubWluLmNzc1wiXG4gICAgICAgICAgcmVsPVwic3R5bGVzaGVldFwiXG4gICAgICAgIC8+XG4gICAgICAgIDxsaW5rXG4gICAgICAgICAgdHlwZT1cInRleHQvY3NzXCJcbiAgICAgICAgICBtZWRpYT1cImFsbFwiXG4gICAgICAgICAgaHJlZj1cImNzcy9qcXVlcnkuYW5pbWF0ZWRoZWFkbGluZS5jc3NcIlxuICAgICAgICAgIHJlbD1cInN0eWxlc2hlZXRcIlxuICAgICAgICAvPlxuICAgICAgICA8bGlua1xuICAgICAgICAgIHR5cGU9XCJ0ZXh0L2Nzc1wiXG4gICAgICAgICAgbWVkaWE9XCJhbGxcIlxuICAgICAgICAgIGhyZWY9XCJjc3MvZm9udC1hd2Vzb21lLm1pbi5jc3NcIlxuICAgICAgICAgIHJlbD1cInN0eWxlc2hlZXRcIlxuICAgICAgICAvPlxuICAgICAgICA8bGlua1xuICAgICAgICAgIHR5cGU9XCJ0ZXh0L2Nzc1wiXG4gICAgICAgICAgbWVkaWE9XCJhbGxcIlxuICAgICAgICAgIGhyZWY9XCIvcHVibGljL2Nzcy9wbHVnaW5zLmNzc1wiXG4gICAgICAgICAgcmVsPVwic3R5bGVzaGVldFwiXG4gICAgICAgIC8+XG4gICAgICAgIDxsaW5rXG4gICAgICAgICAgdHlwZT1cInRleHQvY3NzXCJcbiAgICAgICAgICBtZWRpYT1cImFsbFwiXG4gICAgICAgICAgaHJlZj1cImNzcy9zdHlsZS5jc3NcIlxuICAgICAgICAgIHJlbD1cInN0eWxlc2hlZXRcIlxuICAgICAgICAvPlxuICAgICAgICA8bGluayByZWw9XCJzdHlsZXNoZWV0XCIgdHlwZT1cInRleHQvY3NzXCIgaHJlZj1cImNzcy9zdHlsZXN3aXRjaGVyLmNzc1wiIC8+XG4gICAgICAgIDx0aXRsZT5Jc3RhbmJ1bCAtIFBlcnNvbmFsIFBvcnRmb2xpbzwvdGl0bGU+XG4gICAgICA8L0hlYWQ+XG4gICAgICA8TmF2U3RhdGU+XG4gICAgICAgIDxDb2xvclN0YXRlPlxuICAgICAgICAgIDxDb21wb25lbnQgey4uLnBhZ2VQcm9wc30gLz5cbiAgICAgICAgICA8UHJlTG9hZGVyIC8+XG4gICAgICAgIDwvQ29sb3JTdGF0ZT5cbiAgICAgIDwvTmF2U3RhdGU+XG4gICAgPC9GcmFnbWVudD5cbiAgKTtcbn1cblxuZXhwb3J0IGRlZmF1bHQgTXlBcHA7XG4iXSwibmFtZXMiOlsiSGVhZCIsIkZyYWdtZW50IiwiQ29sb3JTdGF0ZSIsIk5hdlN0YXRlIiwiUHJlTG9hZGVyIiwiTXlBcHAiLCJDb21wb25lbnQiLCJwYWdlUHJvcHMiLCJsaW5rIiwiaHJlZiIsInJlbCIsInR5cGUiLCJtZWRpYSIsInRpdGxlIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/_app.js\n");
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  "default": () => (/* binding */ _app)
+});
+
+// EXTERNAL MODULE: external "react/jsx-runtime"
+var jsx_runtime_ = __webpack_require__(997);
+// EXTERNAL MODULE: external "next/head"
+var head_ = __webpack_require__(968);
+var head_default = /*#__PURE__*/__webpack_require__.n(head_);
+// EXTERNAL MODULE: external "react"
+var external_react_ = __webpack_require__(6689);
+// EXTERNAL MODULE: ./src/context/colorContext.js
+var colorContext = __webpack_require__(101);
+;// CONCATENATED MODULE: ./src/context/colorState.js
+
+
+
+const type = {
+    COLOR: "NAV"
+};
+const navReducer = (state, action)=>{
+    switch(action.type){
+        case type.COLOR:
+            return {
+                ...state,
+                color: action.payload
+            };
+        default:
+            return state;
+    }
+};
+const ColorState = (props)=>{
+    const initialState = {
+        color: "yellow"
+    };
+    const { 0: state , 1: dispatch  } = (0,external_react_.useReducer)(navReducer, initialState);
+    const changeColor = (value)=>{
+        dispatch({
+            type: type.COLOR,
+            payload: value
+        });
+    };
+    return /*#__PURE__*/ jsx_runtime_.jsx(colorContext/* default.Provider */.Z.Provider, {
+        value: {
+            changeColor: changeColor,
+            color: state.color
+        },
+        children: props.children
+    });
+};
+/* harmony default export */ const colorState = (ColorState);
+
+// EXTERNAL MODULE: ./src/context/navContext.js
+var navContext = __webpack_require__(6333);
+;// CONCATENATED MODULE: ./src/context/navState.js
+
+
+
+const navState_type = {
+    NAV: "NAV",
+    MOBILE_MENU: "MOBILE_MENU"
+};
+const navState_navReducer = (state, action)=>{
+    switch(action.type){
+        case navState_type.NAV:
+            return {
+                ...state,
+                nav: action.payload
+            };
+        case navState_type.MOBILE_MENU:
+            return {
+                ...state,
+                mobileMenu: action.payload
+            };
+        default:
+            return state;
+    }
+};
+const NavState = (props)=>{
+    const initialState = {
+        nav: "home",
+        mobileMenu: false
+    };
+    const { 0: state , 1: dispatch  } = (0,external_react_.useReducer)(navState_navReducer, initialState);
+    const changeNav = (value)=>{
+        dispatch({
+            type: navState_type.NAV,
+            payload: value
+        });
+    };
+    const changeMobileMenu = (value)=>{
+        console.log(value);
+        dispatch({
+            type: navState_type.MOBILE_MENU,
+            payload: value
+        });
+    };
+    return /*#__PURE__*/ jsx_runtime_.jsx(navContext/* default.Provider */.Z.Provider, {
+        value: {
+            changeNav: changeNav,
+            nav: state.nav,
+            mobileMenu: state.mobileMenu,
+            changeMobileMenu: changeMobileMenu
+        },
+        children: props.children
+    });
+};
+/* harmony default export */ const navState = (NavState);
+
+;// CONCATENATED MODULE: ./src/layouts/PreLoader.js
+
+
+const PreLoader = ()=>{
+    const { 0: loaded , 1: setLoaded  } = (0,external_react_.useState)(false);
+    (0,external_react_.useEffect)(()=>{
+        setTimeout(()=>{
+            setLoaded(true);
+        }, 2000);
+    });
+    return /*#__PURE__*/ jsx_runtime_.jsx("div", {
+        className: `preloader ${loaded ? "loaded" : ""}`,
+        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+            className: "preloader-container",
+            children: [
+                /*#__PURE__*/ jsx_runtime_.jsx("h1", {
+                    children: "Amanda"
+                }),
+                /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                    id: "progress-line-container",
+                    children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                        className: "progress-line"
+                    })
+                }),
+                /*#__PURE__*/ jsx_runtime_.jsx("h1", {
+                    children: "Mpanza"
+                })
+            ]
+        })
+    });
+};
+/* harmony default export */ const layouts_PreLoader = (PreLoader); // loaded
+
+;// CONCATENATED MODULE: ./pages/_app.js
+
+
+
+
+
+
+
+function MyApp({ Component , pageProps  }) {
+    return /*#__PURE__*/ (0,jsx_runtime_.jsxs)(external_react_.Fragment, {
+        children: [
+            /*#__PURE__*/ (0,jsx_runtime_.jsxs)((head_default()), {
+                children: [
+                    /*#__PURE__*/ jsx_runtime_.jsx("link", {
+                        href: "https://fonts.googleapis.com/css?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i",
+                        rel: "stylesheet"
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("link", {
+                        href: "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700",
+                        rel: "stylesheet"
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("link", {
+                        type: "text/css",
+                        media: "all",
+                        href: "css/bootstrap.min.css",
+                        rel: "stylesheet"
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("link", {
+                        type: "text/css",
+                        media: "all",
+                        href: "css/jquery.animatedheadline.css",
+                        rel: "stylesheet"
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("link", {
+                        type: "text/css",
+                        media: "all",
+                        href: "css/font-awesome.min.css",
+                        rel: "stylesheet"
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("link", {
+                        type: "text/css",
+                        media: "all",
+                        href: "/public/css/plugins.css",
+                        rel: "stylesheet"
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("link", {
+                        type: "text/css",
+                        media: "all",
+                        href: "css/style.css",
+                        rel: "stylesheet"
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("link", {
+                        rel: "stylesheet",
+                        type: "text/css",
+                        href: "css/styleswitcher.css"
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("title", {
+                        children: "Istanbul - Personal Portfolio"
+                    })
+                ]
+            }),
+            /*#__PURE__*/ jsx_runtime_.jsx(navState, {
+                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)(colorState, {
+                    children: [
+                        /*#__PURE__*/ jsx_runtime_.jsx(Component, {
+                            ...pageProps
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx(layouts_PreLoader, {})
+                    ]
+                })
+            })
+        ]
+    });
+}
+/* harmony default export */ const _app = (MyApp);
+
 
 /***/ }),
 
-/***/ "./src/context/colorContext.js":
-/*!*************************************!*\
-  !*** ./src/context/colorContext.js ***!
-  \*************************************/
+/***/ 101:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n\nconst ColorContext = /*#__PURE__*/ (0,react__WEBPACK_IMPORTED_MODULE_0__.createContext)();\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (ColorContext);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29udGV4dC9jb2xvckNvbnRleHQuanMuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7O0FBQXNDO0FBQ3RDLE1BQU1DLFlBQVksaUJBQUdELG9EQUFhLEVBQUU7QUFDcEMsaUVBQWVDLFlBQVksRUFBQyIsInNvdXJjZXMiOlsid2VicGFjazovL2lzdGFuYnVsLXJlYWN0Ly4vc3JjL2NvbnRleHQvY29sb3JDb250ZXh0LmpzP2ViOWMiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgY3JlYXRlQ29udGV4dCB9IGZyb20gXCJyZWFjdFwiO1xuY29uc3QgQ29sb3JDb250ZXh0ID0gY3JlYXRlQ29udGV4dCgpO1xuZXhwb3J0IGRlZmF1bHQgQ29sb3JDb250ZXh0O1xuIl0sIm5hbWVzIjpbImNyZWF0ZUNvbnRleHQiLCJDb2xvckNvbnRleHQiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./src/context/colorContext.js\n");
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "Z": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6689);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+const ColorContext = /*#__PURE__*/ (0,react__WEBPACK_IMPORTED_MODULE_0__.createContext)();
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (ColorContext);
+
 
 /***/ }),
 
-/***/ "./src/context/colorState.js":
-/*!***********************************!*\
-  !*** ./src/context/colorState.js ***!
-  \***********************************/
+/***/ 6333:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _colorContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./colorContext */ \"./src/context/colorContext.js\");\n\n\n\nconst type = {\n    COLOR: \"NAV\"\n};\nconst navReducer = (state, action)=>{\n    switch(action.type){\n        case type.COLOR:\n            return {\n                ...state,\n                color: action.payload\n            };\n        default:\n            return state;\n    }\n};\nconst ColorState = (props)=>{\n    const initialState = {\n        color: \"yellow\"\n    };\n    const { 0: state , 1: dispatch  } = (0,react__WEBPACK_IMPORTED_MODULE_1__.useReducer)(navReducer, initialState);\n    const changeColor = (value)=>{\n        dispatch({\n            type: type.COLOR,\n            payload: value\n        });\n    };\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_colorContext__WEBPACK_IMPORTED_MODULE_2__[\"default\"].Provider, {\n        value: {\n            changeColor: changeColor,\n            color: state.color\n        },\n        children: props.children\n    }, void 0, false, {\n        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/src/context/colorState.js\",\n        lineNumber: 34,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (ColorState);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29udGV4dC9jb2xvclN0YXRlLmpzLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUFBO0FBQW1DO0FBQ087QUFFMUMsTUFBTUUsSUFBSSxHQUFHO0lBQ1hDLEtBQUssRUFBRSxLQUFLO0NBQ2I7QUFFRCxNQUFNQyxVQUFVLEdBQUcsQ0FBQ0MsS0FBSyxFQUFFQyxNQUFNLEdBQUs7SUFDcEMsT0FBUUEsTUFBTSxDQUFDSixJQUFJO1FBQ2pCLEtBQUtBLElBQUksQ0FBQ0MsS0FBSztZQUNiLE9BQU87Z0JBQ0wsR0FBR0UsS0FBSztnQkFDUkUsS0FBSyxFQUFFRCxNQUFNLENBQUNFLE9BQU87YUFDdEIsQ0FBQztRQUVKO1lBQ0UsT0FBT0gsS0FBSyxDQUFDO0tBQ2hCO0NBQ0Y7QUFFRCxNQUFNSSxVQUFVLEdBQUcsQ0FBQ0MsS0FBSyxHQUFLO0lBQzVCLE1BQU1DLFlBQVksR0FBRztRQUNuQkosS0FBSyxFQUFFLFFBQVE7S0FDaEI7SUFDRCxNQUFNLEtBQUNGLEtBQUssTUFBRU8sUUFBUSxNQUFJWixpREFBVSxDQUFDSSxVQUFVLEVBQUVPLFlBQVksQ0FBQztJQUU5RCxNQUFNRSxXQUFXLEdBQUcsQ0FBQ0MsS0FBSyxHQUFLO1FBQzdCRixRQUFRLENBQUM7WUFDUFYsSUFBSSxFQUFFQSxJQUFJLENBQUNDLEtBQUs7WUFDaEJLLE9BQU8sRUFBRU0sS0FBSztTQUNmLENBQUMsQ0FBQztLQUNKO0lBQ0QscUJBQ0UsOERBQUNiLDhEQUFxQjtRQUNwQmEsS0FBSyxFQUFFO1lBQ0xELFdBQVcsRUFBRUEsV0FBVztZQUN4Qk4sS0FBSyxFQUFFRixLQUFLLENBQUNFLEtBQUs7U0FDbkI7a0JBRUFHLEtBQUssQ0FBQ00sUUFBUTs7Ozs7aUJBQ08sQ0FDeEI7Q0FDSDtBQUVELGlFQUFlUCxVQUFVLEVBQUMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9pc3RhbmJ1bC1yZWFjdC8uL3NyYy9jb250ZXh0L2NvbG9yU3RhdGUuanM/Y2NmYiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyB1c2VSZWR1Y2VyIH0gZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgQ29sb3JDb250ZXh0IGZyb20gXCIuL2NvbG9yQ29udGV4dFwiO1xuXG5jb25zdCB0eXBlID0ge1xuICBDT0xPUjogXCJOQVZcIixcbn07XG5cbmNvbnN0IG5hdlJlZHVjZXIgPSAoc3RhdGUsIGFjdGlvbikgPT4ge1xuICBzd2l0Y2ggKGFjdGlvbi50eXBlKSB7XG4gICAgY2FzZSB0eXBlLkNPTE9SOlxuICAgICAgcmV0dXJuIHtcbiAgICAgICAgLi4uc3RhdGUsXG4gICAgICAgIGNvbG9yOiBhY3Rpb24ucGF5bG9hZCxcbiAgICAgIH07XG5cbiAgICBkZWZhdWx0OlxuICAgICAgcmV0dXJuIHN0YXRlO1xuICB9XG59O1xuXG5jb25zdCBDb2xvclN0YXRlID0gKHByb3BzKSA9PiB7XG4gIGNvbnN0IGluaXRpYWxTdGF0ZSA9IHtcbiAgICBjb2xvcjogXCJ5ZWxsb3dcIixcbiAgfTtcbiAgY29uc3QgW3N0YXRlLCBkaXNwYXRjaF0gPSB1c2VSZWR1Y2VyKG5hdlJlZHVjZXIsIGluaXRpYWxTdGF0ZSk7XG5cbiAgY29uc3QgY2hhbmdlQ29sb3IgPSAodmFsdWUpID0+IHtcbiAgICBkaXNwYXRjaCh7XG4gICAgICB0eXBlOiB0eXBlLkNPTE9SLFxuICAgICAgcGF5bG9hZDogdmFsdWUsXG4gICAgfSk7XG4gIH07XG4gIHJldHVybiAoXG4gICAgPENvbG9yQ29udGV4dC5Qcm92aWRlclxuICAgICAgdmFsdWU9e3tcbiAgICAgICAgY2hhbmdlQ29sb3I6IGNoYW5nZUNvbG9yLFxuICAgICAgICBjb2xvcjogc3RhdGUuY29sb3IsXG4gICAgICB9fVxuICAgID5cbiAgICAgIHtwcm9wcy5jaGlsZHJlbn1cbiAgICA8L0NvbG9yQ29udGV4dC5Qcm92aWRlcj5cbiAgKTtcbn07XG5cbmV4cG9ydCBkZWZhdWx0IENvbG9yU3RhdGU7XG4iXSwibmFtZXMiOlsidXNlUmVkdWNlciIsIkNvbG9yQ29udGV4dCIsInR5cGUiLCJDT0xPUiIsIm5hdlJlZHVjZXIiLCJzdGF0ZSIsImFjdGlvbiIsImNvbG9yIiwicGF5bG9hZCIsIkNvbG9yU3RhdGUiLCJwcm9wcyIsImluaXRpYWxTdGF0ZSIsImRpc3BhdGNoIiwiY2hhbmdlQ29sb3IiLCJ2YWx1ZSIsIlByb3ZpZGVyIiwiY2hpbGRyZW4iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./src/context/colorState.js\n");
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "Z": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6689);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 
-/***/ }),
-
-/***/ "./src/context/navContext.js":
-/*!***********************************!*\
-  !*** ./src/context/navContext.js ***!
-  \***********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n\nconst NavContext = /*#__PURE__*/ (0,react__WEBPACK_IMPORTED_MODULE_0__.createContext)();\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (NavContext);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29udGV4dC9uYXZDb250ZXh0LmpzLmpzIiwibWFwcGluZ3MiOiI7Ozs7OztBQUFzQztBQUN0QyxNQUFNQyxVQUFVLGlCQUFHRCxvREFBYSxFQUFFO0FBQ2xDLGlFQUFlQyxVQUFVLEVBQUMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9pc3RhbmJ1bC1yZWFjdC8uL3NyYy9jb250ZXh0L25hdkNvbnRleHQuanM/NTFjYiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBjcmVhdGVDb250ZXh0IH0gZnJvbSBcInJlYWN0XCI7XG5jb25zdCBOYXZDb250ZXh0ID0gY3JlYXRlQ29udGV4dCgpO1xuZXhwb3J0IGRlZmF1bHQgTmF2Q29udGV4dDtcbiJdLCJuYW1lcyI6WyJjcmVhdGVDb250ZXh0IiwiTmF2Q29udGV4dCJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/context/navContext.js\n");
-
-/***/ }),
-
-/***/ "./src/context/navState.js":
-/*!*********************************!*\
-  !*** ./src/context/navState.js ***!
-  \*********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _navContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./navContext */ \"./src/context/navContext.js\");\n\n\n\nconst type = {\n    NAV: \"NAV\",\n    MOBILE_MENU: \"MOBILE_MENU\"\n};\nconst navReducer = (state, action)=>{\n    switch(action.type){\n        case type.NAV:\n            return {\n                ...state,\n                nav: action.payload\n            };\n        case type.MOBILE_MENU:\n            return {\n                ...state,\n                mobileMenu: action.payload\n            };\n        default:\n            return state;\n    }\n};\nconst NavState = (props)=>{\n    const initialState = {\n        nav: \"home\",\n        mobileMenu: false\n    };\n    const { 0: state , 1: dispatch  } = (0,react__WEBPACK_IMPORTED_MODULE_1__.useReducer)(navReducer, initialState);\n    const changeNav = (value)=>{\n        dispatch({\n            type: type.NAV,\n            payload: value\n        });\n    };\n    const changeMobileMenu = (value)=>{\n        console.log(value);\n        dispatch({\n            type: type.MOBILE_MENU,\n            payload: value\n        });\n    };\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_navContext__WEBPACK_IMPORTED_MODULE_2__[\"default\"].Provider, {\n        value: {\n            changeNav: changeNav,\n            nav: state.nav,\n            mobileMenu: state.mobileMenu,\n            changeMobileMenu: changeMobileMenu\n        },\n        children: props.children\n    }, void 0, false, {\n        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/src/context/navState.js\",\n        lineNumber: 48,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (NavState);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29udGV4dC9uYXZTdGF0ZS5qcy5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7QUFBQTtBQUFtQztBQUNHO0FBRXRDLE1BQU1FLElBQUksR0FBRztJQUNYQyxHQUFHLEVBQUUsS0FBSztJQUNWQyxXQUFXLEVBQUUsYUFBYTtDQUMzQjtBQUVELE1BQU1DLFVBQVUsR0FBRyxDQUFDQyxLQUFLLEVBQUVDLE1BQU0sR0FBSztJQUNwQyxPQUFRQSxNQUFNLENBQUNMLElBQUk7UUFDakIsS0FBS0EsSUFBSSxDQUFDQyxHQUFHO1lBQ1gsT0FBTztnQkFDTCxHQUFHRyxLQUFLO2dCQUNSRSxHQUFHLEVBQUVELE1BQU0sQ0FBQ0UsT0FBTzthQUNwQixDQUFDO1FBQ0osS0FBS1AsSUFBSSxDQUFDRSxXQUFXO1lBQ25CLE9BQU87Z0JBQ0wsR0FBR0UsS0FBSztnQkFDUkksVUFBVSxFQUFFSCxNQUFNLENBQUNFLE9BQU87YUFDM0IsQ0FBQztRQUVKO1lBQ0UsT0FBT0gsS0FBSyxDQUFDO0tBQ2hCO0NBQ0Y7QUFFRCxNQUFNSyxRQUFRLEdBQUcsQ0FBQ0MsS0FBSyxHQUFLO0lBQzFCLE1BQU1DLFlBQVksR0FBRztRQUNuQkwsR0FBRyxFQUFFLE1BQU07UUFDWEUsVUFBVSxFQUFFLEtBQUs7S0FDbEI7SUFDRCxNQUFNLEtBQUNKLEtBQUssTUFBRVEsUUFBUSxNQUFJZCxpREFBVSxDQUFDSyxVQUFVLEVBQUVRLFlBQVksQ0FBQztJQUU5RCxNQUFNRSxTQUFTLEdBQUcsQ0FBQ0MsS0FBSyxHQUFLO1FBQzNCRixRQUFRLENBQUM7WUFDUFosSUFBSSxFQUFFQSxJQUFJLENBQUNDLEdBQUc7WUFDZE0sT0FBTyxFQUFFTyxLQUFLO1NBQ2YsQ0FBQyxDQUFDO0tBQ0o7SUFDRCxNQUFNQyxnQkFBZ0IsR0FBRyxDQUFDRCxLQUFLLEdBQUs7UUFDbENFLE9BQU8sQ0FBQ0MsR0FBRyxDQUFDSCxLQUFLLENBQUMsQ0FBQztRQUNuQkYsUUFBUSxDQUFDO1lBQ1BaLElBQUksRUFBRUEsSUFBSSxDQUFDRSxXQUFXO1lBQ3RCSyxPQUFPLEVBQUVPLEtBQUs7U0FDZixDQUFDLENBQUM7S0FDSjtJQUNELHFCQUNFLDhEQUFDZiw0REFBbUI7UUFDbEJlLEtBQUssRUFBRTtZQUNMRCxTQUFTLEVBQUVBLFNBQVM7WUFDcEJQLEdBQUcsRUFBRUYsS0FBSyxDQUFDRSxHQUFHO1lBQ2RFLFVBQVUsRUFBRUosS0FBSyxDQUFDSSxVQUFVO1lBQzVCTyxnQkFBZ0IsRUFBRUEsZ0JBQWdCO1NBQ25DO2tCQUVBTCxLQUFLLENBQUNTLFFBQVE7Ozs7O2lCQUNLLENBQ3RCO0NBQ0g7QUFFRCxpRUFBZVYsUUFBUSxFQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vaXN0YW5idWwtcmVhY3QvLi9zcmMvY29udGV4dC9uYXZTdGF0ZS5qcz9mNTAyIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IHVzZVJlZHVjZXIgfSBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCBOYXZDb250ZXh0IGZyb20gXCIuL25hdkNvbnRleHRcIjtcblxuY29uc3QgdHlwZSA9IHtcbiAgTkFWOiBcIk5BVlwiLFxuICBNT0JJTEVfTUVOVTogXCJNT0JJTEVfTUVOVVwiLFxufTtcblxuY29uc3QgbmF2UmVkdWNlciA9IChzdGF0ZSwgYWN0aW9uKSA9PiB7XG4gIHN3aXRjaCAoYWN0aW9uLnR5cGUpIHtcbiAgICBjYXNlIHR5cGUuTkFWOlxuICAgICAgcmV0dXJuIHtcbiAgICAgICAgLi4uc3RhdGUsXG4gICAgICAgIG5hdjogYWN0aW9uLnBheWxvYWQsXG4gICAgICB9O1xuICAgIGNhc2UgdHlwZS5NT0JJTEVfTUVOVTpcbiAgICAgIHJldHVybiB7XG4gICAgICAgIC4uLnN0YXRlLFxuICAgICAgICBtb2JpbGVNZW51OiBhY3Rpb24ucGF5bG9hZCxcbiAgICAgIH07XG5cbiAgICBkZWZhdWx0OlxuICAgICAgcmV0dXJuIHN0YXRlO1xuICB9XG59O1xuXG5jb25zdCBOYXZTdGF0ZSA9IChwcm9wcykgPT4ge1xuICBjb25zdCBpbml0aWFsU3RhdGUgPSB7XG4gICAgbmF2OiBcImhvbWVcIixcbiAgICBtb2JpbGVNZW51OiBmYWxzZSxcbiAgfTtcbiAgY29uc3QgW3N0YXRlLCBkaXNwYXRjaF0gPSB1c2VSZWR1Y2VyKG5hdlJlZHVjZXIsIGluaXRpYWxTdGF0ZSk7XG5cbiAgY29uc3QgY2hhbmdlTmF2ID0gKHZhbHVlKSA9PiB7XG4gICAgZGlzcGF0Y2goe1xuICAgICAgdHlwZTogdHlwZS5OQVYsXG4gICAgICBwYXlsb2FkOiB2YWx1ZSxcbiAgICB9KTtcbiAgfTtcbiAgY29uc3QgY2hhbmdlTW9iaWxlTWVudSA9ICh2YWx1ZSkgPT4ge1xuICAgIGNvbnNvbGUubG9nKHZhbHVlKTtcbiAgICBkaXNwYXRjaCh7XG4gICAgICB0eXBlOiB0eXBlLk1PQklMRV9NRU5VLFxuICAgICAgcGF5bG9hZDogdmFsdWUsXG4gICAgfSk7XG4gIH07XG4gIHJldHVybiAoXG4gICAgPE5hdkNvbnRleHQuUHJvdmlkZXJcbiAgICAgIHZhbHVlPXt7XG4gICAgICAgIGNoYW5nZU5hdjogY2hhbmdlTmF2LFxuICAgICAgICBuYXY6IHN0YXRlLm5hdixcbiAgICAgICAgbW9iaWxlTWVudTogc3RhdGUubW9iaWxlTWVudSxcbiAgICAgICAgY2hhbmdlTW9iaWxlTWVudTogY2hhbmdlTW9iaWxlTWVudSxcbiAgICAgIH19XG4gICAgPlxuICAgICAge3Byb3BzLmNoaWxkcmVufVxuICAgIDwvTmF2Q29udGV4dC5Qcm92aWRlcj5cbiAgKTtcbn07XG5cbmV4cG9ydCBkZWZhdWx0IE5hdlN0YXRlO1xuIl0sIm5hbWVzIjpbInVzZVJlZHVjZXIiLCJOYXZDb250ZXh0IiwidHlwZSIsIk5BViIsIk1PQklMRV9NRU5VIiwibmF2UmVkdWNlciIsInN0YXRlIiwiYWN0aW9uIiwibmF2IiwicGF5bG9hZCIsIm1vYmlsZU1lbnUiLCJOYXZTdGF0ZSIsInByb3BzIiwiaW5pdGlhbFN0YXRlIiwiZGlzcGF0Y2giLCJjaGFuZ2VOYXYiLCJ2YWx1ZSIsImNoYW5nZU1vYmlsZU1lbnUiLCJjb25zb2xlIiwibG9nIiwiUHJvdmlkZXIiLCJjaGlsZHJlbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/context/navState.js\n");
-
-/***/ }),
-
-/***/ "./src/layouts/PreLoader.js":
-/*!**********************************!*\
-  !*** ./src/layouts/PreLoader.js ***!
-  \**********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n\n\nconst PreLoader = ()=>{\n    const { 0: loaded , 1: setLoaded  } = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(false);\n    (0,react__WEBPACK_IMPORTED_MODULE_1__.useEffect)(()=>{\n        setTimeout(()=>{\n            setLoaded(true);\n        }, 2000);\n    });\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: `preloader ${loaded ? \"loaded\" : \"\"}`,\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n            className: \"preloader-container\",\n            children: [\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h1\", {\n                    children: \"Amanda\"\n                }, void 0, false, {\n                    fileName: \"/Users/MSNDLELA/Downloads/amanda-master/src/layouts/PreLoader.js\",\n                    lineNumber: 14,\n                    columnNumber: 9\n                }, undefined),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                    id: \"progress-line-container\",\n                    children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                        className: \"progress-line\"\n                    }, void 0, false, {\n                        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/src/layouts/PreLoader.js\",\n                        lineNumber: 16,\n                        columnNumber: 11\n                    }, undefined)\n                }, void 0, false, {\n                    fileName: \"/Users/MSNDLELA/Downloads/amanda-master/src/layouts/PreLoader.js\",\n                    lineNumber: 15,\n                    columnNumber: 9\n                }, undefined),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h1\", {\n                    children: \"Mpanza\"\n                }, void 0, false, {\n                    fileName: \"/Users/MSNDLELA/Downloads/amanda-master/src/layouts/PreLoader.js\",\n                    lineNumber: 18,\n                    columnNumber: 9\n                }, undefined)\n            ]\n        }, void 0, true, {\n            fileName: \"/Users/MSNDLELA/Downloads/amanda-master/src/layouts/PreLoader.js\",\n            lineNumber: 13,\n            columnNumber: 7\n        }, undefined)\n    }, void 0, false, {\n        fileName: \"/Users/MSNDLELA/Downloads/amanda-master/src/layouts/PreLoader.js\",\n        lineNumber: 12,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (PreLoader); // loaded\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvbGF5b3V0cy9QcmVMb2FkZXIuanMuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7QUFBQTtBQUE0QztBQUU1QyxNQUFNRSxTQUFTLEdBQUcsSUFBTTtJQUN0QixNQUFNLEtBQUNDLE1BQU0sTUFBRUMsU0FBUyxNQUFJSCwrQ0FBUSxDQUFDLEtBQUssQ0FBQztJQUMzQ0QsZ0RBQVMsQ0FBQyxJQUFNO1FBQ2RLLFVBQVUsQ0FBQyxJQUFNO1lBQ2ZELFNBQVMsQ0FBQyxJQUFJLENBQUMsQ0FBQztTQUNqQixFQUFFLElBQUksQ0FBQyxDQUFDO0tBQ1YsQ0FBQyxDQUFDO0lBRUgscUJBQ0UsOERBQUNFLEtBQUc7UUFBQ0MsU0FBUyxFQUFFLENBQUMsVUFBVSxFQUFFSixNQUFNLEdBQUcsUUFBUSxHQUFHLEVBQUUsQ0FBQyxDQUFDO2tCQUNuRCw0RUFBQ0csS0FBRztZQUFDQyxTQUFTLEVBQUMscUJBQXFCOzs4QkFDbEMsOERBQUNDLElBQUU7OEJBQUMsUUFBTTs7Ozs7NkJBQUs7OEJBQ2YsOERBQUNGLEtBQUc7b0JBQUNHLEVBQUUsRUFBQyx5QkFBeUI7OEJBQy9CLDRFQUFDSCxLQUFHO3dCQUFDQyxTQUFTLEVBQUMsZUFBZTs7Ozs7aUNBQUc7Ozs7OzZCQUM3Qjs4QkFDTiw4REFBQ0MsSUFBRTs4QkFBQyxRQUFNOzs7Ozs2QkFBSzs7Ozs7O3FCQUNYOzs7OztpQkFDRixDQUNOO0NBQ0g7QUFDRCxpRUFBZU4sU0FBUyxFQUFDLENBQ3pCLFNBQVMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9pc3RhbmJ1bC1yZWFjdC8uL3NyYy9sYXlvdXRzL1ByZUxvYWRlci5qcz9jYzc5Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IHVzZUVmZmVjdCwgdXNlU3RhdGUgfSBmcm9tIFwicmVhY3RcIjtcblxuY29uc3QgUHJlTG9hZGVyID0gKCkgPT4ge1xuICBjb25zdCBbbG9hZGVkLCBzZXRMb2FkZWRdID0gdXNlU3RhdGUoZmFsc2UpO1xuICB1c2VFZmZlY3QoKCkgPT4ge1xuICAgIHNldFRpbWVvdXQoKCkgPT4ge1xuICAgICAgc2V0TG9hZGVkKHRydWUpO1xuICAgIH0sIDIwMDApO1xuICB9KTtcblxuICByZXR1cm4gKFxuICAgIDxkaXYgY2xhc3NOYW1lPXtgcHJlbG9hZGVyICR7bG9hZGVkID8gXCJsb2FkZWRcIiA6IFwiXCJ9YH0+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cInByZWxvYWRlci1jb250YWluZXJcIj5cbiAgICAgICAgPGgxPkFtYW5kYTwvaDE+XG4gICAgICAgIDxkaXYgaWQ9XCJwcm9ncmVzcy1saW5lLWNvbnRhaW5lclwiPlxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwicHJvZ3Jlc3MtbGluZVwiIC8+XG4gICAgICAgIDwvZGl2PlxuICAgICAgICA8aDE+TXBhbnphPC9oMT5cbiAgICAgIDwvZGl2PlxuICAgIDwvZGl2PlxuICApO1xufTtcbmV4cG9ydCBkZWZhdWx0IFByZUxvYWRlcjtcbi8vIGxvYWRlZFxuIl0sIm5hbWVzIjpbInVzZUVmZmVjdCIsInVzZVN0YXRlIiwiUHJlTG9hZGVyIiwibG9hZGVkIiwic2V0TG9hZGVkIiwic2V0VGltZW91dCIsImRpdiIsImNsYXNzTmFtZSIsImgxIiwiaWQiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./src/layouts/PreLoader.js\n");
-
-/***/ }),
-
-/***/ "./styles/globals.css":
-/*!****************************!*\
-  !*** ./styles/globals.css ***!
-  \****************************/
-/***/ (() => {
-
+const NavContext = /*#__PURE__*/ (0,react__WEBPACK_IMPORTED_MODULE_0__.createContext)();
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (NavContext);
 
 
 /***/ }),
 
-/***/ "next/head":
-/*!****************************!*\
-  !*** external "next/head" ***!
-  \****************************/
+/***/ 968:
 /***/ ((module) => {
 
-"use strict";
 module.exports = require("next/head");
 
 /***/ }),
 
-/***/ "react":
-/*!************************!*\
-  !*** external "react" ***!
-  \************************/
+/***/ 6689:
 /***/ ((module) => {
 
-"use strict";
 module.exports = require("react");
 
 /***/ }),
 
-/***/ "react/jsx-dev-runtime":
-/*!****************************************!*\
-  !*** external "react/jsx-dev-runtime" ***!
-  \****************************************/
+/***/ 997:
 /***/ ((module) => {
 
-"use strict";
-module.exports = require("react/jsx-dev-runtime");
+module.exports = require("react/jsx-runtime");
 
 /***/ })
 
@@ -128,7 +291,7 @@ module.exports = require("react/jsx-dev-runtime");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__("./pages/_app.js"));
+var __webpack_exports__ = (__webpack_exec__(336));
 module.exports = __webpack_exports__;
 
 })();
