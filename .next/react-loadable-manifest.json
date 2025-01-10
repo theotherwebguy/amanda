@@ -1,44 +1,8 @@
 {
-  "index-image-overlay.js -> ../src/components/Work": {
-    "id": 6070,
-    "files": [
-      "static/chunks/907.cd451367fa02b953.js",
-      "static/chunks/70.47b2ff1b7d2921d4.js"
-    ]
-  },
-  "index-left-image-dark.js -> ../src/components/Work": {
-    "id": 6070,
-    "files": [
-      "static/chunks/907.cd451367fa02b953.js",
-      "static/chunks/70.47b2ff1b7d2921d4.js"
-    ]
-  },
-  "index-left-image-light.js -> ../src/components/Work": {
-    "id": 6070,
-    "files": [
-      "static/chunks/907.cd451367fa02b953.js",
-      "static/chunks/70.47b2ff1b7d2921d4.js"
-    ]
-  },
-  "index-video-dark.js -> ../src/components/Work": {
-    "id": 6070,
-    "files": [
-      "static/chunks/907.cd451367fa02b953.js",
-      "static/chunks/70.47b2ff1b7d2921d4.js"
-    ]
-  },
-  "index-video-light.js -> ../src/components/Work": {
-    "id": 6070,
-    "files": [
-      "static/chunks/907.cd451367fa02b953.js",
-      "static/chunks/70.47b2ff1b7d2921d4.js"
-    ]
-  },
   "index.js -> ../src/components/Work": {
-    "id": 6070,
+    "id": "index.js -> ../src/components/Work",
     "files": [
-      "static/chunks/907.cd451367fa02b953.js",
-      "static/chunks/70.47b2ff1b7d2921d4.js"
+      "static/chunks/src_components_Work_js.js"
     ]
   }
 }
