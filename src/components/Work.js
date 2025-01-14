@@ -82,16 +82,16 @@ const workData = [
     technologies: ["Adobe illustrator"],
     budget: "1550 USD",
   },
-  {
-    img: "img/Analytics.png",
-    name: "This project involved analysing website traffic to understand user behavior and identify opportunities to improve engagement and conversion rates.",
-    format: "img",
-    project: "CAMPAIGN DATA PERFOMANCE ANALYTICS  ",
-    client: "N/A",
-    duration: "1 MONTH",
-    technologies: ["GOOGLE ANALYTIVS"],
-    budget: "1550 USD",
-  },
+  // {
+  //   img: "img/Analytics.png",
+  //   name: "This project involved analysing website traffic to understand user behavior and identify opportunities to improve engagement and conversion rates.",
+  //   format: "img",
+  //   project: "CAMPAIGN DATA PERFOMANCE ANALYTICS  ",
+  //   client: "N/A",
+  //   duration: "1 MONTH",
+  //   technologies: ["GOOGLE ANALYTIVS"],
+  //   budget: "1550 USD",
+  // },
 
 
 
