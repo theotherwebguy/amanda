@@ -83,7 +83,7 @@ const workData = [
     budget: "1550 USD",
   },
   {
-    img: "img/analytics.png",
+    img: "img/Analytics.PNG",
     name: "This project involved analysing website traffic to understand user behavior and identify opportunities to improve engagement and conversion rates.",
     format: "img",
     project: "CAMPAIGN DATA PERFOMANCE ANALYTICS  ",
