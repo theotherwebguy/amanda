@@ -227,7 +227,7 @@ const About = () => {
                       <span className="year">
                         <i className="fa fa-calendar" />
                         <i className="fa fa-caret-right" />
-                        2024 (In Progress)
+                        2024 (completed)
                       </span>
                       <span className="d-block font-weight-400 uppercase">
                         Advanced Diploma in Communication Science
