@@ -9,97 +9,6 @@ import {
 
 const workData = [
   {
-<<<<<<< HEAD
-    img: "img/projects/project-1.jpg",
-    name: "Image Format",
-    format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-2.jpg",
-    name: "Youtube Format",
-    format: "youtube",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-3.jpg",
-    name: "Slider Format",
-    format: "slider",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-4.jpg",
-    name: "Video Format",
-    format: "video",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-5.jpg",
-    name: "Image Format",
-    format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-6.jpg",
-    name: "Image Format",
-    format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-7.jpg",
-    name: "Image Format",
-    format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-8.jpg",
-    name: "Image Format",
-    format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-  {
-    img: "img/projects/project-9.jpg",
-    name: "Image Format",
-    format: "img",
-    project: "WEBSITE",
-    client: "ENVATO",
-    duration: "3 MONTHS",
-    technologies: ["HTML", "JAVASCRIPT"],
-    budget: "1550 USD",
-  },
-=======
     img: "img/Phase 2 - Burger banner.png",
     name: "Fast Food advertisement",
     format: "img",
@@ -131,7 +40,6 @@ const workData = [
   },
 
 
->>>>>>> main
 ];
 
 const Work = () => {
@@ -235,11 +143,7 @@ const Work = () => {
                       {work.client}
                     </span>
                   </li>
-<<<<<<< HEAD
-                  <li>
-=======
                   {/* <li>
->>>>>>> main
                     <i className="fa fa-hourglass-o" />
                     <span className="font-weight-400 project-label">
                       {" "}
@@ -249,11 +153,7 @@ const Work = () => {
                     <span className="font-weight-600 uppercase">
                       {work.duration}
                     </span>
-<<<<<<< HEAD
-                  </li>
-=======
                   </li> */}
->>>>>>> main
                   <li>
                     <i className="fa fa-code" />{" "}
                     <span className="font-weight-400 project-label">
@@ -267,11 +167,7 @@ const Work = () => {
                       ))}
                     </span>
                   </li>
-<<<<<<< HEAD
-                  <li>
-=======
                   {/* <li>
->>>>>>> main
                     <i className="fa fa-money" />{" "}
                     <span className="font-weight-400 project-label">
                       {" "}
@@ -281,11 +177,7 @@ const Work = () => {
                     <span className="font-weight-600 uppercase">
                       {work.budget}
                     </span>
-<<<<<<< HEAD
-                  </li>
-=======
                   </li> */}
->>>>>>> main
                 </ul>
                 <a href="#" className="btn">
                   <span>
