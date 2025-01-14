@@ -14,7 +14,10 @@ const workData = [
     format: "img",
     project: "Ad",
     client: "Phase 2 - Fast Food outley",
+    project: "Ad",
+    client: "Phase 2 - Fast Food outley",
     duration: "3 MONTHS",
+    technologies: ["Canva"],
     technologies: ["Canva"],
     budget: "1550 USD",
   },
@@ -24,20 +27,33 @@ const workData = [
     format: "img",
     project: "Social Media",
     client: "Stronics",
+    img: "img/cyber-monday-celebration.jpg",
+    name: "Cyber Monday Ad",
+    format: "img",
+    project: "Social Media",
+    client: "Stronics",
     duration: "3 MONTHS",
+    technologies: ["Canva"],
     technologies: ["Canva"],
     budget: "1550 USD",
   },
   {
     img: "img/Product-listing-2.png",
     name: "WORDPRESS WEBSITE MANAGEMNT",
+    img: "img/Product-listing-2.png",
+    name: "WORDPRESS WEBSITE MANAGEMNT",
     format: "slider",
+    project: " PRODUCT LISTING ",
+    client: "SUPER ELECTRONICS",
     project: " PRODUCT LISTING ",
     client: "SUPER ELECTRONICS",
     duration: "3 MONTHS",
     technologies: ["WORDPRESS", "WORCOMMERCE", "CONTENT COPY"],
+    technologies: ["WORDPRESS", "WORCOMMERCE", "CONTENT COPY"],
     budget: "1550 USD",
   },
+
+
 
 
 ];
@@ -144,6 +160,7 @@ const Work = () => {
                     </span>
                   </li>
                   {/* <li>
+                  {/* <li>
                     <i className="fa fa-hourglass-o" />
                     <span className="font-weight-400 project-label">
                       {" "}
@@ -153,6 +170,7 @@ const Work = () => {
                     <span className="font-weight-600 uppercase">
                       {work.duration}
                     </span>
+                  </li> */}
                   </li> */}
                   <li>
                     <i className="fa fa-code" />{" "}

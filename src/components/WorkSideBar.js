@@ -70,16 +70,6 @@ export const SliderSideBar = () => {
         indicators={false}
       >
         <Carousel.Item className="carousel-item" interval={1000}>
-<<<<<<< HEAD
-          <img src="img/projects/project-8.jpg" alt="slide 1" />
-        </Carousel.Item>
-        <Carousel.Item className="carousel-item" interval={1000}>
-          <img src="img/projects/project-7.jpg" alt="slide 2" />
-        </Carousel.Item>
-        <Carousel.Item className="carousel-item" interval={1000}>
-          <img src="img/projects/project-5.jpg" alt="slide 3" />
-        </Carousel.Item>
-=======
           <img src="img/Product-listing-1.png" alt="slide 1" />
         </Carousel.Item>
         <Carousel.Item className="carousel-item" interval={1000}>
@@ -88,7 +78,6 @@ export const SliderSideBar = () => {
         {/* <Carousel.Item className="carousel-item" interval={1000}>
           <img src="img/projects/project-5.jpg" alt="slide 3" />
         </Carousel.Item> */}
->>>>>>> main
       </Carousel>
     </div>
   );
