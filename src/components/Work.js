@@ -52,6 +52,47 @@ const workData = [
     technologies: ["WORDPRESS", "WORCOMMERCE", "CONTENT COPY"],
     budget: "1550 USD",
   },
+  {
+    img: "img/Facebook_post.jpeg",
+    name: "Shoprite Crisis Management Facebook Post",
+    format: "img",
+    project: "Social Media | Communication Science Project",
+    client: "Unizulu",
+    duration: "1 MONTH",
+    technologies: ["Adobe illustrator"],
+    budget: "1550 USD",
+  },
+  {
+    img: "img/instagram_post.jpeg",
+    name: "Shoprite Crisis Management instagram Post",
+    format: "img",
+    project: "Social Media | Communication Science Project",
+    client: "Unizulu",
+    duration: "1 MONTH",
+    technologies: ["Adobe illustrator"],
+    budget: "1550 USD",
+  },
+  {
+    img: "img/x_post.jpeg",
+    name: "Shoprite Crisis Management Twitter X Post",
+    format: "img",
+    project: "Social Media | Communication Science Project",
+    client: "Unizulu",
+    duration: "1 MONTH",
+    technologies: ["Adobe illustrator"],
+    budget: "1550 USD",
+  },
+  {
+    img: "img/analytics.png",
+    name: "This project involved analysing website traffic to understand user behavior and identify opportunities to improve engagement and conversion rates.",
+    format: "img",
+    project: "CAMPAIGN DATA PERFOMANCE ANALYTICS  ",
+    client: "N/A",
+    duration: "1 MONTH",
+    technologies: ["GOOGLE ANALYTIVS"],
+    budget: "1550 USD",
+  },
+
 
 
 
