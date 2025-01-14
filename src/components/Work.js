@@ -171,7 +171,6 @@ const Work = () => {
                       {work.duration}
                     </span>
                   </li> */}
-                  </li> */}
                   <li>
                     <i className="fa fa-code" />{" "}
                     <span className="font-weight-400 project-label">
