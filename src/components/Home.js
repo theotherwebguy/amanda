@@ -39,7 +39,7 @@ const Home = ({ leftImg, video, leftImgSrc }) => {
                 className="btn btn-secondary link-portfolio-two"
               >
                 <span>
-                  <i className="fa fa-suitcase" /> Articles
+                  <i className="fa fa-suitcase" /> Marketing Content & Case Studies
                 </span>
               </a>
             </div>

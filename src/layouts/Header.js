@@ -8,8 +8,8 @@ const menus = [
   { icon: "fa fa-user", dkMenuName: "About", name: "About me", id: "about" },
    {
      icon: "fa fa-briefcase",
-     dkMenuName: "Portfolio",
-     name: "my Portfolio",
+     dkMenuName: "Media Assets",
+     name: "my Media Assets",
      id: "work",
    },
   {
@@ -18,7 +18,7 @@ const menus = [
     name: "get in touch",
     id: "contact",
   },
-  { icon: "fa fa-comments", dkMenuName: "Blog", name: "my Blog", id: "blog" },
+  { icon: "fa fa-comments", dkMenuName: "Marketing Content & Case Studies", name: "Marketing Content & Case Studies", id: "blog" },
 ];
 
 const Header = ({ light }) => {

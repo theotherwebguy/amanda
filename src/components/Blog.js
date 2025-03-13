@@ -216,10 +216,10 @@ const Blog = () => {
       <section id="blog" className={`${nav === "blog" ? "active" : ""}`}>
         <div className="container page-title text-center">
           <h2 className="text-center">
-            latest <span>posts</span>
+             <span>Marketing Content & Case Studies</span>
           </h2>
           <span className="title-head-subtitle">
-            tips, insights, and best practices about PR, Digital Marketing
+            Campaigns PR, Digital Marketing
           </span>
         </div>
         <div className="container">
