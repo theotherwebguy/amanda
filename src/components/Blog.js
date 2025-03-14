@@ -3,37 +3,52 @@ import NavContext from "../context/navContext";
 import BlogPopup from "./BlogPopup";
 const data = [
   {
-    title: "Takealot Email Marketing Campaign: Driving Engagement & Sales",
-    img: "img/blog/takealot_campaign.jpg",
-    tag: "E-commerce Marketing",
-    date: { date: "05", month: "March", year: "2025" },
-    des: [
+    "title": "Takealot Email Marketing Campaign: Driving Engagement & Sales",
+    "img": "img/blog/takealot_campaign.jpg",
+    "tag": "E-commerce Marketing",
+    "date": { "date": "05", "month": "March", "year": "2025" },
+    "des": [
       "This email marketing campaign is designed to promote Takealot’s latest collection and drive website traffic.",
-      "Email Design and Structure:",
-      "Header Navigation: Links to 'New Arrivals,' 'About Us,' 'Shop,' and 'Sale' for seamless browsing.",
-      "Hero Section: A bold banner announcing the 'Latest Collection' with a clear call-to-action (CTA).",
-      "Product Highlights: Showcasing new arrivals in laptops, makeup, earrings, and clothing.",
-      "Discount Section: Featuring up to '30% off' selected items to create urgency.",
-      "Lifestyle Imagery: Engaging visuals that connect emotionally with the audience.",
-      "Call-to-Action (CTA): A 'Shop Now' button directing users to Takealot’s website.",
+      
+      "Email Design & Structure:",
+      
+      "Header Navigation: Links to key sections like 'New Arrivals' and 'Sale.'",
+      "Hero Section: Bold banner with CTA for the 'Latest Collection.'",
+      "Product Highlights: Featuring new arrivals in tech, fashion, and beauty.",
+      "Discount Section: Limited-time offers (e.g., 30% off).",
+      "Lifestyle Imagery: Emotional visuals to engage users.",
+      "Call-to-Action (CTA): 'Shop Now' button leading to Takealot’s site.",
+      
       "Campaign Goals:",
-      "Increase website traffic and conversions.",
-      "Highlight Takealot’s diverse product offerings.",
-      "Boost sales through exclusive discounts and promotions.",
-      "Strengthen customer engagement and brand loyalty.",
+      
+      "Increase website traffic & conversions.",
+      "Showcase Takealot’s diverse product offerings.",
+      "Boost sales with discounts & promotions.",
+      "Strengthen engagement and customer loyalty.",
+      
       "Target Audience:",
-      "Existing Takealot customers and frequent online shoppers.",
-      "New prospects interested in fashion, technology, and beauty products.",
-      "Discount-savvy shoppers looking for the best deals.",
+      
+      "Existing Takealot customers and online shoppers.",
+      "Prospective customers interested in fashion, tech, and beauty.",
+      "Discount-conscious shoppers.",
+      
       "Key Marketing Strategies:",
-      "Personalization: Tailoring emails based on customer purchase history and preferences.",
-      "Urgency and Scarcity: Limited-time discount offers to encourage immediate action.",
-      "Visual Appeal: High-quality imagery that aligns with Takealot’s brand identity.",
-      "Clear CTAs: Directing users efficiently to the Takealot website for purchases.",
+      
+      "Personalization: Tailored content based on purchase history.",
+      "Urgency & Scarcity: Limited-time offers to drive immediate action.",
+      "Visual Appeal: High-quality imagery to match Takealot’s brand.",
+      "Clear CTAs: Direct users to the website for easy shopping.",
+      
       "Conclusion:",
-      "This mock campaign successfully demonstrates an effective email marketing strategy for Takealot, focusing on engagement, urgency, and seamless shopping experiences."
+      
+      "This email campaign demonstrates a comprehensive strategy for engaging Takealot’s audience, leveraging personalization, urgency, and seamless user experience to drive conversions.",
+      
+      "Disclaimer:",
+      
+      "This campaign is a mock project created for portfolio purposes and is not affiliated with Takealot. All content, strategies, and design elements are hypothetical and intended to showcase my marketing and content creation skills."
     ]
-  },
+},
+
   
 {
   title: "Nivea Valentine’s Day Campaign: Glow & Love – Up to 70% Off!",
