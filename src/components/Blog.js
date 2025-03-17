@@ -48,52 +48,76 @@ const data = [
       "This campaign is a mock project created for portfolio purposes and is not affiliated with Takealot. All content, strategies, and design elements are hypothetical and intended to showcase my marketing and content creation skills."
     ]
 },
-
   
 {
-  title: "Nivea Valentine’s Day Campaign: Glow & Love – Up to 70% Off!",
-  img: "img/blog/nivea_valentine.jpeg",
-  tag: "Skincare & Wellness",
-  date: { date: "10", month: "February", year: "2025" },
-  des: [
-    "Nivea experienced a decline in website engagement (-34% visitors, -38% total visits).",
-    "Campaign Goal:",
-    "Recover lost traffic by leveraging Valentine’s Day as a self-care movement.",
-    "Execution Strategies:",
-    "Video Ad: Showcasing Nivea as the go-to skincare brand for couples and individuals.",
-    "Website Optimization: A 'Find Your Perfect Gift' quiz and testimonials for deeper engagement.",
-    "Social Media Boost:",
-    "#GlowWithNivea challenge featuring user-generated content.",
-    "Influencer-led content on TikTok and Instagram.",
-    "Expected Results:",
-    "25% increase in unique visitors, 30% recovery in total visits.",
-    "50% growth in social media engagement.",
-    "Takeaway:",
-    "Emotion-driven advertising paired with an enticing discount strategy can rebuild engagement."
+  "title": "NIVEA Valentine’s Day Campaign: Glow & Love – Up to 70% Off!",
+  "img": "img/blog/Niva_image.jpeg",
+  "tag": "Skincare & Wellness",
+  "date": { "date": "10", "month": "February", "year": "2025" },
+  "des": [
+    "Rekindling Self-Love & Connection",
+    "",
+    "Valentine’s Day isn’t just about romance—it’s about celebrating self-love, care, and meaningful connections. This campaign embraces NIVEA’s mission of nurturing skin and relationships by encouraging people to gift themselves and their loved ones the joy of glowing, healthy skin.",
+    "",
+    "Emotional Storytelling & Engagement",
+    "",
+    "Video Ad: A heartfelt narrative featuring individuals and couples practicing self-care rituals with NIVEA.",
+    "",
+    "Social Media Activation: The #GlowWithNivea challenge invites users to share their self-care stories, reinforcing emotional well-being.",
+    "",
+    "Influencer Collaborations: Thoughtful content from wellness advocates, guiding audiences on skincare as a love language.",
+    "",
+    "Encouraging Personal Wellness",
+    "",
+    "A ‘Find Your Perfect Gift’ quiz personalizes the shopping experience, making self-care an intentional act.",
+    "",
+    "User-generated testimonials highlight the emotional impact of skincare beyond aesthetics.",
+    "",
+    "Impact & Reflection",
+    "",
+    "By intertwining self-care with love and wellness, this campaign reminds audiences that taking care of oneself is a powerful expression of love—one that NIVEA celebrates every day.",
+    "",
+    "Disclaimer:",
+    "This is a mock campaign created for portfolio purposes and is not affiliated with NIVEA. The strategies and execution plans are conceptual and showcase my expertise in storytelling-driven marketing."
   ]
 },
+
 {
-  title: "Avon Valentine’s Day Mock Campaign: Love & Beauty, Up to 50% Off – All Lovers’ Month!",
-  img: "img/blog/avon_valentine.jpeg",
-  tag: "Beauty & Fashion",
-  date: { date: "14", month: "February", year: "2025" },
-  des: [
-    "Avon’s traffic analysis revealed high direct visitors but low social media engagement.",
-    "Campaign Goal:",
-    "Increase social media-driven website visits and sales.",
-    "Video Ad Concept:",
-    "A romantic announcement of Valentine’s Month.",
-    "A couple playfully using Avon products together.",
-    "A closing scene showcasing high-demand Avon perfumes with an urgency message.",
-    "Outcome:",
-    "Boosted social media traffic and sustained engagement throughout February.",
-    "Strengthened Avon’s emotional branding by aligning with love and self-care.",
-    "Success Factors:",
-    "Extended sale period for continued conversions.",
-    "Engaging visual storytelling.",
-    "Strategic placement of urgency messaging to drive purchases."
+  "title": "Avon Valentine’s Day Campaign: Love & Beauty – Up to 50% Off!",
+  "img": "img/blog/avon_valentine.jpeg",
+  "tag": "Beauty & Fashion",
+  "date": { "date": "14", "month": "February", "year": "2025" },
+  "des": [
+    "Celebrating Love, Beauty, and Self-Care All Month Long",
+    "",
+    "Love comes in many forms—romantic, self-love, and the little moments that make life beautiful. Avon’s Valentine’s Month campaign transforms February into a time of indulgence, gifting, and glowing confidence with exclusive beauty deals.",
+    "",
+    "Campaign Strategy & Execution",
+    "",
+    "Video Ad Storytelling: A playful yet intimate scene featuring a couple using Avon’s best-selling products, showcasing beauty as an experience to be shared.",
+    "",
+    "Emotional Branding: The campaign highlights self-care as an act of love, encouraging customers to pamper themselves and their loved ones.",
+    "",
+    "Social Media Activation: Engaging beauty tutorials, influencer collaborations, and interactive challenges drive community participation.",
+    "",
+    "Driving Urgency & Sales",
+    "",
+    "Extended Sale Period: Running throughout February to maximize reach.",
+    "",
+    "Limited-Time Offers: Featuring Avon’s signature perfumes and beauty sets with persuasive call-to-actions.",
+    "",
+    "Compelling Visuals: Romantic, aesthetic-driven content designed for shareability.",
+    "",
+    "Impact & Success",
+    "",
+    "By tapping into emotion-driven storytelling and strategic digital engagement, this campaign redefines Valentine’s Day beyond a single date—turning the entire month into a celebration of beauty and love.",
+    "",
+    "Disclaimer:",
+    "This is a mock campaign created for portfolio purposes and is not affiliated with Avon. The content is conceptual and showcases expertise in beauty marketing and engagement strategies."
   ]
 },
+
+
   {
     title: "BMW Facebook Campaign Analysis: Increasing Engagement",
     img: "img/blog/bmw_campaign.jpg",
@@ -145,6 +169,7 @@ const data = [
       "",
     ],
   },
+
   {
     title: "Unlocking Your Potential as You Transition from High School to UniversityEffective Marketing Strategy tips",
     img: "img/blog/blog2.jpg",
@@ -171,6 +196,7 @@ const data = [
       "",
     ],
   },
+
   {
     title: "7 Powerful Strategies to Attract Sponsors to Your Event",
     img: "img/blog/blog3.jpg",
