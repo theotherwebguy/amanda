@@ -9,34 +9,18 @@ import {
 
 const workData = [
   {
-    img: "img/Phase 2 - Burger banner.png",
-    name: "Fast Food advertisement",
+    img: "img/pbx_ad.jpg",
+    name: "PBX advertisement",
     format: "img",
     project: "Ad",
-    client: "Phase 2 - Fast Food outley",
-    project: "Ad",
-    client: "Phase 2 - Fast Food outley",
+    client: "Phase 2 - PBX outley",
+    name: "PBX Facebook Campaign | Paid Ad",
+    client: "Pro Business Solutionsy",
     duration: "3 MONTHS",
-    technologies: ["Canva"],
     technologies: ["Canva"],
     budget: "1550 USD",
   },
-  {
-    img: "img/cyber-monday-celebration.jpg",
-    name: "Cyber Monday Ad",
-    format: "img",
-    project: "Social Media",
-    client: "Stronics",
-    img: "img/cyber-monday-celebration.jpg",
-    name: "Cyber Monday Ad",
-    format: "img",
-    project: "Social Media",
-    client: "Stronics",
-    duration: "3 MONTHS",
-    technologies: ["Canva"],
-    technologies: ["Canva"],
-    budget: "1550 USD",
-  },
+
   {
     img: "img/Product-listing-2.png",
     name: "WORDPRESS WEBSITE MANAGEMNT",
@@ -52,6 +36,16 @@ const workData = [
     technologies: ["WORDPRESS", "WORCOMMERCE", "CONTENT COPY"],
     budget: "1550 USD",
   },
+    {
+    img: "img/cctv_ad.jpg",
+    name: "Facebook CCTV Campaign | Paid Ad",
+    format: "img",
+    project: "Social Media | Communication",
+    client: "Unizulu",
+    duration: "1 MONTH",
+    technologies: ["CANVA"],
+    budget: "1550 USD",
+  },
   {
     img: "img/Facebook_post.jpeg",
     name: "Shoprite Crisis Management Facebook Post",
@@ -62,16 +56,7 @@ const workData = [
     technologies: ["Adobe illustrator"],
     budget: "1550 USD",
   },
-  {
-    img: "img/instagram_post.jpeg",
-    name: "Shoprite Crisis Management instagram Post",
-    format: "img",
-    project: "Social Media | Communication Science Project",
-    client: "Unizulu",
-    duration: "1 MONTH",
-    technologies: ["Adobe illustrator"],
-    budget: "1550 USD",
-  },
+
   {
     img: "img/x_post.jpeg",
     name: "Shoprite Crisis Management Twitter X Post",
@@ -82,16 +67,37 @@ const workData = [
     technologies: ["Adobe illustrator"],
     budget: "1550 USD",
   },
-  // {
-  //   img: "img/Analytics.png",
-  //   name: "This project involved analysing website traffic to understand user behavior and identify opportunities to improve engagement and conversion rates.",
-  //   format: "img",
-  //   project: "CAMPAIGN DATA PERFOMANCE ANALYTICS  ",
-  //   client: "N/A",
-  //   duration: "1 MONTH",
-  //   technologies: ["GOOGLE ANALYTIVS"],
-  //   budget: "1550 USD",
-  // },
+    {
+    img: "img/Phase 2 - Burger banner.png",
+    name: "Fast Food advertisement",
+    format: "img",
+    project: "Ad",
+    client: "Phase 2 - Fast Food outley",
+    project: "Ad",
+    client: "Phase 2 - Fast Food outley",
+    duration: "3 MONTHS",
+    technologies: ["Canva"],
+    budget: "1550 USD",
+  },
+    {
+    img: "img/cyber-monday-celebration.jpg",
+    name: "Cyber Monday Ad",
+    format: "img",
+    project: "Social Media",
+    client: "Stronics",
+    img: "img/cyber-monday-celebration.jpg",
+    name: "Cyber Monday Ad",
+    format: "img",
+    project: "Social Media",
+    client: "Stronics",
+    duration: "3 MONTHS",
+    technologies: ["Canva"],
+    technologies: ["Canva"],
+    budget: "1550 USD",
+  },
+
+
+  
 
 
 
@@ -113,10 +119,10 @@ const Work = () => {
           {/* Main Heading Starts */}
           <div className="container page-title text-center">
             <h2 className="text-center">
-              my <span>portfolio</span>
+              Media <span>Assets</span>
             </h2>
             <span className="title-head-subtitle">
-              a few recent design and coding projects. Want to see more? Email
+              a few recent designs 
               me.
             </span>
           </div>
