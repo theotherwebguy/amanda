@@ -113,6 +113,46 @@ const About = () => {
                 Experience
               </h2>
               <div className="resume-items">
+                                {/* Pro Telecoms */}
+                <div className="item">
+                  <span className="bullet" />
+                  <div className="card">
+                    <div className="card-header">
+                      <span className="year">
+                        <i className="fa fa-calendar" />
+                        <i className="fa fa-caret-right" />
+                        March 2025 - Present
+                      </span>
+                      <span className="d-block font-weight-400 uppercase">
+                        Digital Marketing Specialist
+                        <span className="separator" />
+                        <span className="font-weight-700">Pro Business Solutions </span>
+                      </span>
+                    </div>
+                    <div className="card-body">
+                      <ul>
+                        <li>
+                         - Developing and implementing result-oriented digital marketing strategies that align with business objectives.
+                        </li><br></br>
+                        <li>
+                         - Creating and optimizing captivating content for website, social media, email campaigns, and other digital platforms.
+                        </li><br></br>
+                        <li>
+                         - Managing and monitoring online advertising campaigns (PPC, display ads, social media ads) to maximize ROI.
+                        </li><br></br>
+                        <li>
+                         - Executed A/B testing for product promotions.
+                        </li><br></br>
+                        <li>
+                         - Conducting market research and competitor analysis to stay ahead of industry trends and maintain our competitive edge.
+                        </li><br></br>
+                        <li>
+                         - Planning and executing Google Ads campaigns to drive targeted traffic and conversions.
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
                 {/* Stronics */}
                 <div className="item">
                   <span className="bullet" />
