@@ -149,6 +149,11 @@ const About = () => {
                         <li>
                          - Planning and executing Google Ads campaigns to drive targeted traffic and conversions.
                         </li>
+                                                <li>
+                         - Built and managed a WhatsApp chatbot using the WhatsApp Business API to automate and customize real-time customer responses.
+                        </li>
+                        
+
                       </ul>
                     </div>
                   </div>
